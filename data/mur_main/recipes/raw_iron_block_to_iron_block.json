@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:smelting",
+    "group": "mur_block_of_raw_mineral",
+    "ingredient": {
+        "item": "minecraft:raw_iron_block"
+    },
+    "result": "minecraft:iron_block",
+    "cookingtime": 2000,
+    "experience": 7
+}
