@@ -43,6 +43,16 @@
 - 玻璃板可以用切石机切制
 - 岩石类可锻造为平滑变种
 
+## 版本命名规则
+
+分为预览版（标有`Preview`）和正式版（标有`Release`）。  
+预览版通常在制作大型更新时发布，每次更新添加的内容较少，可能存在bug；  
+正式版则通常在大型更新时发布，经过测试。  
+每个预览版均代表一个阶段性测试，且bug会集中处理。若预览版在测试后未发现bug，则会直接改版本号作为正式版发布。  
+预览版的版本号命名规则为`v x.x.yymmdd`；  
+正式版的版本号命名规则为`v x.x.x`。
+
 ## 备注
 
-本数据包在[GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)协议下发布。
+本数据包在[GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)协议下发布。  
+本数据包占用了`mur_be`，`mur_blasting`，`mur_main`，`mur_sd`，`mur_smelting`和`mur_stonecutting`这些命名空间。
