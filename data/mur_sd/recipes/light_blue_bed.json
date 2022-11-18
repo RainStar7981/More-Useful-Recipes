@@ -6,7 +6,7 @@
         "item": "minecraft:light_blue_dye"
       },
       {
-        "tag": "secondarydyeing:light_blue_bed"
+        "tag": "mur_sd:light_blue_bed"
       }
     ],
     "result": {

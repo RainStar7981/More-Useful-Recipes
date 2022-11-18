@@ -6,7 +6,7 @@
         "item": "minecraft:lime_dye"
       },
       {
-        "tag": "secondarydyeing:lime_candle"
+        "tag": "mur_sd:lime_candle"
       }
     ],
     "result": {

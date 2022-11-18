@@ -6,7 +6,7 @@
         "item": "minecraft:magenta_dye"
       },
       {
-        "tag": "secondarydyeing:magenta_bed"
+        "tag": "mur_sd:magenta_bed"
       }
     ],
     "result": {

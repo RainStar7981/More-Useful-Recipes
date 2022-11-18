@@ -8,7 +8,7 @@
     ],
     "key": {
         "A":{
-            "tag": "secondarydyeing:cyan_concrete"
+            "tag": "mur_sd:cyan_concrete"
         },
         "B":{
             "item": "minecraft:cyan_dye"

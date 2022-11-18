@@ -8,7 +8,7 @@
     ],
     "key": {
         "A":{
-            "tag": "secondarydyeing:light_gray_concrete_powder"
+            "tag": "mur_sd:light_gray_concrete_powder"
         },
         "B":{
             "item": "minecraft:light_gray_dye"

@@ -8,7 +8,7 @@
     ],
     "key": {
         "A":{
-            "tag": "secondarydyeing:purple_glazed_terracotta"
+            "tag": "mur_sd:purple_glazed_terracotta"
         },
         "B":{
             "item": "minecraft:purple_dye"

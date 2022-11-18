@@ -6,7 +6,7 @@
         "item": "minecraft:green_dye"
       },
       {
-        "tag": "secondarydyeing:green_wool"
+        "tag": "mur_sd:green_wool"
       }
     ],
     "result": {

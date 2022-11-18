@@ -6,7 +6,7 @@
         "item": "minecraft:purple_dye"
       },
       {
-        "tag": "secondarydyeing:purple_banner"
+        "tag": "mur_sd:purple_banner"
       }
     ],
     "result": {

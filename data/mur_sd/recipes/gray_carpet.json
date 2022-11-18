@@ -8,7 +8,7 @@
     ],
     "key": {
         "A":{
-            "tag": "secondarydyeing:gray_carpet"
+            "tag": "mur_sd:gray_carpet"
         },
         "B":{
             "item": "minecraft:gray_dye"

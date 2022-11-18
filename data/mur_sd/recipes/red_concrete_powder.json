@@ -8,7 +8,7 @@
     ],
     "key": {
         "A":{
-            "tag": "secondarydyeing:red_concrete_powder"
+            "tag": "mur_sd:red_concrete_powder"
         },
         "B":{
             "item": "minecraft:red_dye"

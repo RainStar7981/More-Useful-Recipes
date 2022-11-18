@@ -6,7 +6,7 @@
         "item": "minecraft:pink_dye"
       },
       {
-        "tag": "secondarydyeing:pink_wool"
+        "tag": "mur_sd:pink_wool"
       }
     ],
     "result": {

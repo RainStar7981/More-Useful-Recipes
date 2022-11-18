@@ -8,7 +8,7 @@
     ],
     "key": {
         "A":{
-            "tag": "secondarydyeing:white_concrete"
+            "tag": "mur_sd:white_concrete"
         },
         "B":{
             "tag": "mur_main:aaa_white"

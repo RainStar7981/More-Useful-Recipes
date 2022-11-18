@@ -8,7 +8,7 @@
     ],
     "key": {
         "A":{
-            "tag": "secondarydyeing:orange_terracotta"
+            "tag": "mur_sd:orange_terracotta"
         },
         "B":{
             "item": "minecraft:orange_dye"

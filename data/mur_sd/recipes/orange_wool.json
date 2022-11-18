@@ -6,7 +6,7 @@
         "item": "minecraft:orange_dye"
       },
       {
-        "tag": "secondarydyeing:orange_wool"
+        "tag": "mur_sd:orange_wool"
       }
     ],
     "result": {

@@ -6,7 +6,7 @@
         "item": "minecraft:green_dye"
       },
       {
-        "tag": "secondarydyeing:green_banner"
+        "tag": "mur_sd:green_banner"
       }
     ],
     "result": {

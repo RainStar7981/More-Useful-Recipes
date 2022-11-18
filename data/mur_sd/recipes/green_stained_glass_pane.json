@@ -8,7 +8,7 @@
     ],
     "key": {
         "A":{
-            "tag": "secondarydyeing:green_stained_glass_pane"
+            "tag": "mur_sd:green_stained_glass_pane"
         },
         "B":{
             "item": "minecraft:green_dye"

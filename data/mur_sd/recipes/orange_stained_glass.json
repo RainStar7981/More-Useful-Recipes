@@ -8,7 +8,7 @@
     ],
     "key": {
         "A":{
-            "tag": "secondarydyeing:orange_stained_glass"
+            "tag": "mur_sd:orange_stained_glass"
         },
         "B":{
             "item": "minecraft:orange_dye"
