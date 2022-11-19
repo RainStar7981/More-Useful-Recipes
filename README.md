@@ -30,6 +30,7 @@
 - 红砖块、下界砖块、荧石、黏土块、下界合金锭、石英块切制为4个红砖、下界砖、萤石粉、黏土球、下届合金碎片、下界石英
 - 玻璃板可以用切石机切制
 - 楼梯切制为半砖
+- 可用于合成切石机的石头更多了（[见此](https://github.com/RainStar7981/More-Useful-Recipes/blob/main/rocks_for_stonecutter.md)）
 
 
 ## 正在做的和计划中的内容
