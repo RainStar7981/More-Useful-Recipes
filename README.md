@@ -58,4 +58,4 @@
 ## 备注
 
 本数据包在[GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)协议下发布。  
-本数据包占用了`mur_be`，`mur_blasting`，`mur_main`，`mur_sd`，`mur_smelting`和`mur_stonecutting`这些命名空间。
+本数据包占用的命名空间：`mur_be`，`mur_blasting`，`mur_main`，`mur_sd`，`mur_smelting`，`mur_stairs2slabs`，`mur_stonecutting`
