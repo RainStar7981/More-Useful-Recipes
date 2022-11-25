@@ -32,6 +32,7 @@
 - 楼梯切制为半砖
 - 可用于合成切石机的石头更多了（[见此](https://github.com/RainStar7981/More-Useful-Recipes/blob/main/rocks_for_stonecutter.md)）
 - 半砖合成整砖
+- 失活珊瑚（块、扇）染色为活珊瑚（块、扇）
 
 
 ## 正在做的和计划中的内容
@@ -45,7 +46,7 @@
 - 木头、蘑菇、藤蔓、下界岩可染色为绯红系列和诡异系列的东西
 - 音乐唱片可以相互转化
 - 添加进度以支持解锁配方
-- 失活珊瑚染色为活珊瑚
+
 - 红色下界砖系列可以用皮革褪色为下界砖系列
 - 下界砖系列可以用红色染料或下界疣染色为红色下界砖系列
 - 沙子系列可以用红色染料染色为红沙系列
@@ -65,4 +66,4 @@
 
 本数据包在[GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)协议下发布。  
 本数据包占用的命名空间：  
-`mur_be`，`mur_blasting`，`mur_main`，`mur_sd`，`mur_slabs2block`，`mur_smelting`，`mur_stairs2slabs`，`mur_stonecutting`
+`mur_be`，`mur_blasting`，`mur_corals`,`mur_main`，`mur_sd`，`mur_slabs2block`，`mur_smelting`，`mur_stairs2slabs`，`mur_stonecutting`
