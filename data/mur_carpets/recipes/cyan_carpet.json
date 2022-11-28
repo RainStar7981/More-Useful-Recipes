@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "mur_moss_carpets",
+    "ingredients": [
+        {
+            "item": "minecraft:moss_carpet"
+        },
+        {
+            "item": "minecraft:cyan_dye"
+        }
+    ],
+    "result": {
+        "item": "minecraft:cyan_carpet"
+    }
+}
