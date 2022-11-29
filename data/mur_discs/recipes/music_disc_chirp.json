@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "mur_discs",
+    "ingredients": [
+        {
+            "tag": "mur_discs:music_disc_chirp"
+        },
+        {
+            "item": "minecraft:red_dye"
+        },
+        {
+            "item": "minecraft:red_dye"
+        }
+    ],
+    "result": {
+        "item": "minecraft:music_disc_chirp"
+    }
+}

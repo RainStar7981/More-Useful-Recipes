@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:smithing",
+    "group": "mur_discs",
+    "base": {
+        "item": "minecraft:music_disc_stal"
+    },
+    "addition": {
+        "item": "minecraft:iron_nugget"
+    },
+    "result": {
+        "item": "minecraft:music_disc_11"
+    }
+}
