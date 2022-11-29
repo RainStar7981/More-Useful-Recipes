@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:sand"
+        },
+        {
+            "tag": "mur_sands:sand_red"
+        }
+    ],
+    "result": {
+        "item": "minecraft:red_sand"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:chiseled_red_sandstone"
+        },
+        {
+            "tag": "mur_main:aaa_white"
+        }
+    ],
+    "result": {
+        "item": "minecraft:chiseled_sandstone"
+    }
+}
