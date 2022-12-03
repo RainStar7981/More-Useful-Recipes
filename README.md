@@ -65,17 +65,4 @@
 ## 备注
 
 本数据包在[GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)协议下发布。  
-本数据包占用的命名空间：  
-`mur_be`  
-`mur_blasting`  
-`mur_carpets`  
-`mur_corals`  
-`mur_discs`  
-`mur_main`  
-`mur_nether_bricks`  
-`mur_sands`  
-`mur_sd`  
-`mur_slabs2block`  
-`mur_smelting`  
-`mur_stairs2slabs`  
-`mur_stonecutting`
+本数据包占用了很多以`mur_xxx`格式命名的命名空间，请避免重复。  
