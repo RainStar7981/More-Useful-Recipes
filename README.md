@@ -52,7 +52,7 @@
 预览版的版本号命名规则为`v x.x.yymmdd`；  
 正式版的版本号命名规则为`v x.x.x`。
 
-## 备注
+## 其他
 
 本数据包在 [GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) 协议下发布。  
 本数据包占用了很多以`mur_xxx`格式命名的命名空间，请避免重复。  
