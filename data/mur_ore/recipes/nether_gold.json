@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "mur_nether_gold_ore",
+    "ingredients": [
+        {"item": "minecraft:gold_ingot"}, 
+        {"item": "minecraft:gold_ingot"},
+        {"item": "minecraft:gold_nugget"},
+        {"item": "minecraft:gold_nugget"},
+        {"item": "minecraft:gold_nugget"},
+        {"item": "minecraft:gold_nugget"},
+        {"item": "minecraft:gold_nugget"},
+        {"item": "minecraft:gold_nugget"},
+        {
+            "item": "minecraft:netherrack"
+        }
+    ],
+    "result": {
+        "item": "minecraft:nether_gold_ore"
+    }
+}
