@@ -50,11 +50,11 @@
 ## 版本命名规则
 
 分为预览版和正式版。  
-预览版的版本号命名规则为`v x.x-pre x`,例如`v1.0-pre4`；  
+预览版的版本号命名规则为`v x.x-pre x`,例如`v1.0-pre5`；  
 正式版的版本号命名规则为`v x.x.x`，例如`v1.0.0`。 
 
 <details>
-  <summary>旧命名规则（自v1.0-pre4起停用）</summary>
+  <summary>旧命名规则（自v1.0-pre5起停用）</summary>
   分为预览版（标有<code>Preview</code>）和正式版（标有<code>Release</code>）。<br>
   预览版的版本号命名规则为<code>v x.x.yymmdd</code>；<br>
   正式版的版本号命名规则为<code>v x.x.x</code>。
