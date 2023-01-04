@@ -2,21 +2,11 @@
     "type": "minecraft:crafting_shapeless",
     "group": "mur_iron_ore",
     "ingredients": [
-        {
-            "tag": "mur_ore:iron"
-        }, 
-        {
-            "tag": "mur_ore:iron"
-        },
-        {
-            "tag": "mur_ore:iron"
-        },
-        {
-            "tag": "mur_ore:iron"
-        },
-        {
-            "item": "minecraft:stone"
-        }
+        { "tag": "mur_ore:iron" }, 
+        { "tag": "mur_ore:iron" },
+        { "tag": "mur_ore:iron" },
+        { "tag": "mur_ore:iron" },
+        { "item": "minecraft:stone" }
     ],
     "result": {
         "item": "minecraft:iron_ore"

@@ -2,21 +2,11 @@
     "type": "minecraft:crafting_shapeless",
     "group": "mur_gold_ore",
     "ingredients": [
-        {
-            "tag": "mur_ore:gold"
-        }, 
-        {
-            "tag": "mur_ore:gold"
-        },
-        {
-            "tag": "mur_ore:gold"
-        },
-        {
-            "tag": "mur_ore:gold"
-        },
-        {
-            "item": "minecraft:stone"
-        }
+        { "tag": "mur_ore:gold" }, 
+        { "tag": "mur_ore:gold" },
+        { "tag": "mur_ore:gold" },
+        { "tag": "mur_ore:gold" },
+        { "item": "minecraft:stone" }
     ],
     "result": {
         "item": "minecraft:deepslate_gold_ore"

@@ -2,21 +2,11 @@
     "type": "minecraft:crafting_shapeless",
     "group": "mur_diamond_ore",
     "ingredients": [
-        {
-            "item": "minecraft:diamond"
-        }, 
-        {
-            "item": "minecraft:diamond"
-        },
-        {
-            "item": "minecraft:diamond"
-        },
-        {
-            "item": "minecraft:diamond"
-        },
-        {
-            "item": "minecraft:stone"
-        }
+        { "item": "minecraft:diamond" }, 
+        { "item": "minecraft:diamond" },
+        { "item": "minecraft:diamond" },
+        { "item": "minecraft:diamond" },
+        { "item": "minecraft:stone" }
     ],
     "result": {
         "item": "minecraft:diamond_ore"

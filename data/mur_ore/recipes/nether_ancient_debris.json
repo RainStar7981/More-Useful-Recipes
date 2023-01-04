@@ -2,12 +2,8 @@
     "type": "minecraft:crafting_shapeless",
     "group": "mur_ancient_debris_ore",
     "ingredients": [
-        {
-            "item": "minecraft:netherite_scrap"
-        },
-        {
-            "item": "minecraft:netherrack"
-        }
+        { "item": "minecraft:netherite_scrap" },
+        { "item": "minecraft:netherrack" }
     ],
     "result": {
         "item": "minecraft:ancient_debris"

@@ -2,21 +2,11 @@
     "type": "minecraft:crafting_shapeless",
     "group": "mur_coal_ore",
     "ingredients": [
-        {
-            "item": "minecraft:coal"
-        }, 
-        {
-            "item": "minecraft:coal"
-        },
-        {
-            "item": "minecraft:coal"
-        },
-        {
-            "item": "minecraft:coal"
-        },
-        {
-            "item": "minecraft:stone"
-        }
+        { "item": "minecraft:coal" }, 
+        { "item": "minecraft:coal" },
+        { "item": "minecraft:coal" },
+        { "item": "minecraft:coal" },
+        { "item": "minecraft:stone" }
     ],
     "result": {
         "item": "minecraft:coal_ore"
