@@ -2,12 +2,8 @@
     "type": "minecraft:crafting_shapeless",
     "group": "mur_coral_fan",
     "ingredients": [
-        {
-            "item": "minecraft:dead_brain_coral_fan"
-        },
-        {
-            "tag": "mur_corals:aaa_bubble_coral_color"
-        }
+        { "item": "minecraft:dead_brain_coral_fan" },
+        { "tag": "mur_corals:aaa_bubble_coral_color" }
     ],
     "result": {
         "item": "minecraft:brain_coral_fan"

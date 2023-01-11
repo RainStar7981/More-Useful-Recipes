@@ -2,12 +2,8 @@
     "type": "minecraft:crafting_shapeless",
     "group": "mur_coral",
     "ingredients": [
-        {
-            "item": "minecraft:dead_tube_coral"
-        },
-        {
-            "tag": "mur_main:aaa_blue"
-        }
+        { "item": "minecraft:dead_tube_coral" },
+        { "tag": "mur_main:aaa_blue" }
     ],
     "result": {
         "item": "minecraft:tube_coral"

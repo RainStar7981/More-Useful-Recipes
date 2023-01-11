@@ -2,12 +2,8 @@
     "type": "minecraft:crafting_shapeless",
     "group": "mur_coral",
     "ingredients": [
-        {
-            "item": "minecraft:dead_fire_coral"
-        },
-        {
-            "item":"minecraft:red_dye"
-        }
+        { "item": "minecraft:dead_fire_coral" },
+        { "item":"minecraft:red_dye" }
     ],
     "result": {
         "item": "minecraft:fire_coral"

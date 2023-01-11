@@ -2,12 +2,8 @@
     "type": "minecraft:crafting_shapeless",
     "group": "mur_coral",
     "ingredients": [
-        {
-            "item": "minecraft:dead_brain_coral"
-        },
-        {
-            "item": "minecraft:pink_dye"
-        }
+        { "item": "minecraft:dead_brain_coral" },
+        { "item": "minecraft:pink_dye" }
     ],
     "result": {
         "item": "minecraft:brain_coral"

@@ -2,12 +2,8 @@
     "type": "minecraft:crafting_shapeless",
     "group": "mur_moss_carpets",
     "ingredients": [
-        {
-            "item": "minecraft:moss_carpet"
-        },
-        {
-            "item": "minecraft:orange_dye"
-        }
+        { "item": "minecraft:moss_carpet" },
+        { "item": "minecraft:orange_dye" }
     ],
     "result": {
         "item": "minecraft:orange_carpet"
