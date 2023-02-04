@@ -1,6 +1,7 @@
 {
     "type": "minecraft:blasting",
     "group": "mur_block_of_raw_mineral_blasting",
+    "category": "blocks",
     "ingredient": {
         "item": "minecraft:raw_copper_block"
     },

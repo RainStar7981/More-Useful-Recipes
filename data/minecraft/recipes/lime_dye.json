@@ -1,6 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
   "group": "lime_dye",
+  "category": "misc",
   "ingredients": [
     { "item": "minecraft:green_dye" },
     { "item": "minecraft:white_dye" }
