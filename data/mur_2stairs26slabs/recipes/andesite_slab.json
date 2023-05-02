@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "mur_slabs2block",
+    "pattern": [
+        "A",
+        "A"
+    ],
+    "key": {
+        "A":{
+            "item": "minecraft:andesite_stairs"
+        }
+    },
+    "result": {
+        "item": "minecraft:andesite_slab",
+         "count": 6
+    }
+}

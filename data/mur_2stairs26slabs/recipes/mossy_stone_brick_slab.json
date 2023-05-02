@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "mur_slabs2block",
+    "pattern": [
+        "A",
+        "A"
+    ],
+    "key": {
+        "A":{
+            "item": "minecraft:mossy_stone_brick_stairs"
+        }
+    },
+    "result": {
+        "item": "minecraft:mossy_stone_brick_slab",
+         "count": 6
+    }
+}
