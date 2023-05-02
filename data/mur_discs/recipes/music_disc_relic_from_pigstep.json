@@ -3,11 +3,9 @@
     "group": "mur_discs",
     "ingredients": [
         {"tag": "mur_discs:music_disc_pigstep"},
-        {"item": "minecraft:red_dye"},
-        {"item": "minecraft:red_dye"},
-        {"item": "minecraft:gold_nugget"}
+        {"item": "minecraft:light_blue_dye"}
     ],
     "result": {
-        "item": "minecraft:music_disc_pigstep"
+        "item": "minecraft:music_disc_relic"
     }
 }
