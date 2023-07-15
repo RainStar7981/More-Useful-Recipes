@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "mur_templates_conversion",
+  "ingredient": {
+      "tag": "mur_templates_conversion:silence"
+  },
+  "result": "minecraft:silence_armor_trim_smithing_template",
+  "count": 1
+}

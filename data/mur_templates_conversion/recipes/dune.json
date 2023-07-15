@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "mur_templates_conversion",
+  "ingredient": {
+      "tag": "mur_templates_conversion:dune"
+  },
+  "result": "minecraft:dune_armor_trim_smithing_template",
+  "count": 1
+}
