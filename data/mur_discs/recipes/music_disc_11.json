@@ -1,13 +1,9 @@
 {
-    "type": "minecraft:smithing",
+    "type": "minecraft:stonecutting",
     "group": "mur_discs",
-    "base": {
-        "item": "minecraft:music_disc_stal"
+    "ingredient": {
+        "tag": "mur_discs:music_disc_11"
     },
-    "addition": {
-        "item": "minecraft:iron_nugget"
-    },
-    "result": {
-        "item": "minecraft:music_disc_11"
-    }
+    "result": "minecraft:music_disc_11",
+    "count": 1
 }

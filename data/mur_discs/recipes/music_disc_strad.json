@@ -1,18 +1,9 @@
 {
-    "type": "minecraft:crafting_shapeless",
+    "type": "minecraft:stonecutting",
     "group": "mur_discs",
-    "ingredients": [
-        {
-            "tag": "mur_discs:music_disc_strad"
-        },
-        {
-            "tag": "mur_main:aaa_white"
-        },
-        {
-            "tag": "mur_main:aaa_white"
-        }
-    ],
-    "result": {
-        "item": "minecraft:music_disc_strad"
-    }
+    "ingredient": {
+        "tag": "mur_discs:music_disc_strad"
+    },
+    "result": "minecraft:music_disc_strad",
+    "count": 1
 }

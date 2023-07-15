@@ -1,18 +1,9 @@
 {
-    "type": "minecraft:crafting_shapeless",
+    "type": "minecraft:stonecutting",
     "group": "mur_discs",
-    "ingredients": [
-        {
-            "tag": "mur_discs:music_disc_mellohi"
-        },
-        {
-            "tag":"mur_main:aaa_white"
-        },
-        {
-            "item": "minecraft:purple_dye"
-        }
-    ],
-    "result": {
-        "item": "minecraft:music_disc_mellohi"
-    }
+    "ingredient": {
+        "tag": "mur_discs:music_disc_mellohi"
+    },
+    "result": "minecraft:music_disc_mellohi",
+    "count": 1
 }

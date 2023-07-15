@@ -1,13 +1,9 @@
 {
-    "type": "minecraft:crafting_shapeless",
+    "type": "minecraft:stonecutting",
     "group": "mur_discs",
-    "ingredients": [
-        {"tag": "mur_discs:music_disc_pigstep"},
-        {"item": "minecraft:red_dye"},
-        {"item": "minecraft:red_dye"},
-        {"item": "minecraft:gold_nugget"}
-    ],
-    "result": {
-        "item": "minecraft:music_disc_pigstep"
-    }
+    "ingredient": {
+        "tag": "mur_discs:music_disc_pigstep"
+    },
+    "result": "minecraft:music_disc_pigstep",
+    "count": 1
 }

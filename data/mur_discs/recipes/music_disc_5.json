@@ -1,20 +1,9 @@
 {
-    "type": "minecraft:crafting_shaped",
+    "type": "minecraft:stonecutting",
     "group": "mur_discs",
-    "pattern": [
-        " A ",
-        "ABA",
-        " A "
-    ],
-    "key": {
-        "A": {
-            "item": "minecraft:disc_fragment_5"
-        },
-        "B": {
-            "tag": "mur_discs:music_disc_5"
-        }
+    "ingredient": {
+        "tag": "mur_discs:music_disc_5"
     },
-    "result": {
-        "item": "minecraft:music_disc_5"
-    }
+    "result": "minecraft:music_disc_5",
+    "count": 1
 }

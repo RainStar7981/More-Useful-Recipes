@@ -1,18 +1,9 @@
 {
-    "type": "minecraft:crafting_shapeless",
+    "type": "minecraft:stonecutting",
     "group": "mur_discs",
-    "ingredients": [
-        {
-            "tag": "mur_discs:music_disc_mall"
-        },
-        {
-            "item": "minecraft:purple_dye"
-        },
-        {
-            "item": "minecraft:pink_dye"
-        }
-    ],
-    "result": {
-        "item": "minecraft:music_disc_mall"
-    }
+    "ingredient": {
+        "tag": "mur_discs:music_disc_mall"
+    },
+    "result": "minecraft:music_disc_mall",
+    "count": 1
 }

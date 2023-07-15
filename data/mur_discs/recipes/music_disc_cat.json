@@ -1,18 +1,9 @@
 {
-    "type": "minecraft:crafting_shapeless",
+    "type": "minecraft:stonecutting",
     "group": "mur_discs",
-    "ingredients": [
-        {
-            "tag": "mur_discs:music_disc_cat"
-        },
-        {
-            "item": "minecraft:lime_dye"
-        },
-        {
-            "item": "minecraft:lime_dye"
-        }
-    ],
-    "result": {
-        "item": "minecraft:music_disc_cat"
-    }
+    "ingredient": {
+        "tag": "mur_discs:music_disc_cat"
+    },
+    "result": "minecraft:music_disc_cat",
+    "count": 1
 }
