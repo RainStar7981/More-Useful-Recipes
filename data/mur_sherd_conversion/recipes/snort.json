@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "mur_sherd_conversion",
+  "ingredient": {
+      "tag": "mur_sherd_conversion:snort"
+  },
+  "result": "minecraft:snort_pottery_sherd",
+  "count": 1
+}

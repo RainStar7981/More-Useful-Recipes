@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "mur_sherd_conversion",
+  "ingredient": {
+      "tag": "mur_sherd_conversion:howl"
+  },
+  "result": "minecraft:howl_pottery_sherd",
+  "count": 1
+}
