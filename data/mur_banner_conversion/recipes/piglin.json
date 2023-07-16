@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "mur_banner_conversion",
+  "ingredient": {
+    "tag": "mur_banner_conversion:piglin"
+  },
+  "result": "minecraft:piglin_banner_pattern",
+  "count": 1
+}
