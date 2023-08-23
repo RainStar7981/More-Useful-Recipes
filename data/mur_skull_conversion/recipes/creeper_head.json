@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "group": "mur_skull_conversion",
+    "ingredient": {
+        "tag": "mur_skull_conversion:creeper_head"
+    },
+    "result": "minecraft:creeper_head",
+    "count": 1
+}

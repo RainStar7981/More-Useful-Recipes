@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "group": "mur_froglight_conversion",
+    "ingredient": {
+        "tag": "mur_froglight_conversion:ochre_froglight"
+    },
+    "result": "minecraft:ochre_froglight",
+    "count": 1
+}

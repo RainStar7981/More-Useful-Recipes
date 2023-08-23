@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:stonecutting",
+    "group": "mur_skull_conversion",
+    "ingredient": {
+        "tag": "mur_skull_conversion:wither_skeleton_skull"
+    },
+    "result": "minecraft:wither_skeleton_skull",
+    "count": 1
+}
