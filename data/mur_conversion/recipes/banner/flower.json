@@ -2,8 +2,8 @@
   "type": "minecraft:stonecutting",
   "group": "mur_banner_conversion",
   "ingredient": {
-    "tag": "mur_banner_conversion:globe"
+    "tag": "mur_conversion:banner/flower"
   },
-  "result": "minecraft:globe_banner_pattern",
+  "result": "minecraft:flower_banner_pattern",
   "count": 1
 }

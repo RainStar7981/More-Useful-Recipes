@@ -2,7 +2,7 @@
   "type": "minecraft:stonecutting",
   "group": "mur_banner_conversion",
   "ingredient": {
-    "tag": "mur_banner_conversion:mojang"
+    "tag": "mur_conversion:banner/mojang"
   },
   "result": "minecraft:mojang_banner_pattern",
   "count": 1

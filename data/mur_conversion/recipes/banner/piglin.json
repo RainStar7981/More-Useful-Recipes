@@ -2,8 +2,8 @@
   "type": "minecraft:stonecutting",
   "group": "mur_banner_conversion",
   "ingredient": {
-    "tag": "mur_banner_conversion:flower"
+    "tag": "mur_conversion:banner/piglin"
   },
-  "result": "minecraft:flower_banner_pattern",
+  "result": "minecraft:piglin_banner_pattern",
   "count": 1
 }

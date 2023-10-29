@@ -2,8 +2,8 @@
   "type": "minecraft:stonecutting",
   "group": "mur_banner_conversion",
   "ingredient": {
-    "tag": "mur_banner_conversion:piglin"
+    "tag": "mur_conversion:banner/creeper"
   },
-  "result": "minecraft:piglin_banner_pattern",
+  "result": "minecraft:creeper_banner_pattern",
   "count": 1
 }
