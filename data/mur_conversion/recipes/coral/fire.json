@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "mur_coral_conversion",
+  "ingredient": {
+    "tag": "mur_conversion:coral/fire"
+  },
+  "result": "minecraft:fire_coral",
+  "count": 1
+}
