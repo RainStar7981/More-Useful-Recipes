@@ -2,8 +2,8 @@
     "type": "minecraft:stonecutting",
     "group": "mur_skull_conversion",
     "ingredient": {
-        "tag": "mur_skull_conversion:piglin_head"
+        "tag": "mur_conversion:skull/skeleton_skull"
     },
-    "result": "minecraft:piglin_head",
+    "result": "minecraft:skeleton_skull",
     "count": 1
 }
