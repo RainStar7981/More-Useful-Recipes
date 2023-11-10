@@ -1,11 +1,11 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "group": "mur_moss_carpets",
-    "ingredients": [
-        { "item": "minecraft:moss_carpet" },
-        { "tag": "mur_main:aaa_white" }
-    ],
-    "result": {
-        "item": "minecraft:white_carpet"
-    }
+  "type": "minecraft:crafting_shapeless",
+  "group": "mur_moss_carpets",
+  "ingredients": [
+    { "item": "minecraft:moss_carpet" },
+    { "tag": "mur_main:aaa_white" }
+  ],
+  "result": {
+    "item": "minecraft:white_carpet"
+  }
 }

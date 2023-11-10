@@ -1,11 +1,11 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "group": "mur_moss_carpets",
-    "ingredients": [
-        { "item": "minecraft:moss_carpet" },
-        { "item": "minecraft:lime_dye" }
-    ],
-    "result": {
-        "item": "minecraft:lime_carpet"
-    }
+  "type": "minecraft:crafting_shapeless",
+  "group": "mur_moss_carpets",
+  "ingredients": [
+    { "item": "minecraft:moss_carpet" },
+    { "item": "minecraft:lime_dye" }
+  ],
+  "result": {
+    "item": "minecraft:lime_carpet"
+  }
 }
