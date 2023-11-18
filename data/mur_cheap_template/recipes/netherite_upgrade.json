@@ -8,12 +8,15 @@
     },
     "S": {
       "item": "minecraft:netherite_upgrade_smithing_template"
+    },
+    "A": {
+      "item": "minecraft:diamond"
     }
   },
   "pattern": [
     "CSC",
     "CCC",
-    "CCC"
+    "CAC"
   ],
   "result": {
     "count": 2,
