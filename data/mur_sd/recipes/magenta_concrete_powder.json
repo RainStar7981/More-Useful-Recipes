@@ -1,21 +1,21 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "group": "sd_concrete_powder",
-    "pattern": [
-        "AAA",
-        "ABA",
-        "AAA"
-    ],
-    "key": {
-        "A":{
-            "tag": "mur_sd:magenta_concrete_powder"
-        },
-        "B":{
-            "item": "minecraft:magenta_dye"
-        }
+  "type": "minecraft:crafting_shaped",
+  "group": "sd_concrete_powder",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "tag": "mur_sd:magenta_concrete_powder"
     },
-    "result": {
-        "item": "minecraft:magenta_concrete_powder",
-        "count": 8
+    "B": {
+      "item": "minecraft:magenta_dye"
     }
+  },
+  "result": {
+    "item": "minecraft:magenta_concrete_powder",
+    "count": 8
+  }
 }

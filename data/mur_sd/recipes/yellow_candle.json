@@ -1,15 +1,15 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "group": "sd_candle",
-    "ingredients": [
-      {
-        "item": "minecraft:yellow_dye"
-      },
-      {
-        "tag": "mur_sd:yellow_candle"
-      }
-    ],
-    "result": {
-      "item": "minecraft:yellow_candle"
+  "type": "minecraft:crafting_shapeless",
+  "group": "sd_candle",
+  "ingredients": [
+    {
+      "item": "minecraft:yellow_dye"
+    },
+    {
+      "tag": "mur_sd:yellow_candle"
     }
+  ],
+  "result": {
+    "item": "minecraft:yellow_candle"
+  }
 }

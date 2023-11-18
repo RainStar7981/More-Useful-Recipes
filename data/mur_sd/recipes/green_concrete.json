@@ -1,21 +1,21 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "group": "sd_concrete",
-    "pattern": [
-        "AAA",
-        "ABA",
-        "AAA"
-    ],
-    "key": {
-        "A":{
-            "tag": "mur_sd:green_concrete"
-        },
-        "B":{
-            "item": "minecraft:green_dye"
-        }
+  "type": "minecraft:crafting_shaped",
+  "group": "sd_concrete",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "tag": "mur_sd:green_concrete"
     },
-    "result": {
-        "item": "minecraft:green_concrete",
-        "count": 8
+    "B": {
+      "item": "minecraft:green_dye"
     }
+  },
+  "result": {
+    "item": "minecraft:green_concrete",
+    "count": 8
+  }
 }

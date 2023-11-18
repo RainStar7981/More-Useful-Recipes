@@ -2,8 +2,8 @@
   "type": "minecraft:stonecutting",
   "group": "mur_sherd_conversion",
   "ingredient": {
-      "tag": "mur_sherd_conversion:sheaf"
+      "tag": "mur_conversion:sherd/mourner"
   },
-  "result": "minecraft:sheaf_pottery_sherd",
+  "result": "minecraft:mourner_pottery_sherd",
   "count": 1
 }

@@ -1,15 +1,15 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "group": "sd_banner",
-    "ingredients": [
-      {
-        "item": "minecraft:lime_dye"
-      },
-      {
-        "tag": "mur_sd:lime_banner"
-      }
-    ],
-    "result": {
-      "item": "minecraft:lime_banner"
+  "type": "minecraft:crafting_shapeless",
+  "group": "sd_banner",
+  "ingredients": [
+    {
+      "item": "minecraft:lime_dye"
+    },
+    {
+      "tag": "mur_sd:lime_banner"
     }
+  ],
+  "result": {
+    "item": "minecraft:lime_banner"
+  }
 }

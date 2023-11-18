@@ -1,21 +1,21 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "group": "sd_terracotta",
-    "pattern": [
-        "AAA",
-        "ABA",
-        "AAA"
-    ],
-    "key": {
-        "A":{
-            "tag": "mur_sd:brown_terracotta"
-        },
-        "B":{
-            "tag": "mur_main:aaa_brown"
-        }
+  "type": "minecraft:crafting_shaped",
+  "group": "sd_terracotta",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "tag": "mur_sd:brown_terracotta"
     },
-    "result": {
-        "item": "minecraft:brown_terracotta",
-        "count": 8
+    "B": {
+      "tag": "mur_main:aaa_brown"
     }
+  },
+  "result": {
+    "item": "minecraft:brown_terracotta",
+    "count": 8
+  }
 }

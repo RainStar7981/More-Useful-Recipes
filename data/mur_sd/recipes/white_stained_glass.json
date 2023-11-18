@@ -1,21 +1,21 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "group": "sd_stained_glass",
-    "pattern": [
-        "AAA",
-        "ABA",
-        "AAA"
-    ],
-    "key": {
-        "A":{
-            "tag": "mur_sd:white_stained_glass"
-        },
-        "B":{
-            "tag": "mur_main:aaa_white"
-        }
+  "type": "minecraft:crafting_shaped",
+  "group": "sd_stained_glass",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "tag": "mur_sd:white_stained_glass"
     },
-    "result": {
-        "item": "minecraft:white_stained_glass",
-        "count": 8
+    "B": {
+      "tag": "mur_main:aaa_white"
     }
+  },
+  "result": {
+    "item": "minecraft:white_stained_glass",
+    "count": 8
+  }
 }

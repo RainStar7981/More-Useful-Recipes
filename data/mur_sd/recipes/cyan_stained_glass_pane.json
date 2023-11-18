@@ -1,21 +1,21 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "group": "sd_stained_glass_pane",
-    "pattern": [
-        "AAA",
-        "ABA",
-        "AAA"
-    ],
-    "key": {
-        "A":{
-            "tag": "mur_sd:cyan_stained_glass_pane"
-        },
-        "B":{
-            "item": "minecraft:cyan_dye"
-        }
+  "type": "minecraft:crafting_shaped",
+  "group": "sd_stained_glass_pane",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "tag": "mur_sd:cyan_stained_glass_pane"
     },
-    "result": {
-        "item": "minecraft:cyan_stained_glass_pane",
-        "count": 8
+    "B": {
+      "item": "minecraft:cyan_dye"
     }
+  },
+  "result": {
+    "item": "minecraft:cyan_stained_glass_pane",
+    "count": 8
+  }
 }

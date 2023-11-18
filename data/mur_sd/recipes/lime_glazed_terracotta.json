@@ -1,21 +1,21 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "group": "sd_glazed_terracotta",
-    "pattern": [
-        "AAA",
-        "ABA",
-        "AAA"
-    ],
-    "key": {
-        "A":{
-            "tag": "mur_sd:lime_glazed_terracotta"
-        },
-        "B":{
-            "item": "minecraft:lime_dye"
-        }
+  "type": "minecraft:crafting_shaped",
+  "group": "sd_glazed_terracotta",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "tag": "mur_sd:lime_glazed_terracotta"
     },
-    "result": {
-        "item": "minecraft:lime_glazed_terracotta",
-        "count": 8
+    "B": {
+      "item": "minecraft:lime_dye"
     }
+  },
+  "result": {
+    "item": "minecraft:lime_glazed_terracotta",
+    "count": 8
+  }
 }

@@ -1,18 +1,18 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "group": "mur_redstone_ore",
-    "ingredients": [
-        { "item": "minecraft:redstone" }, 
-        { "item": "minecraft:redstone" },
-        { "item": "minecraft:redstone" },
-        { "item": "minecraft:redstone" },
-        { "item": "minecraft:redstone" }, 
-        { "item": "minecraft:redstone" },
-        { "item": "minecraft:redstone" },
-        { "item": "minecraft:redstone" },
-        { "item": "minecraft:stone" }
-    ],
-    "result": {
-        "item": "minecraft:deepslate_redstone_ore"
-    }
+  "type": "minecraft:crafting_shapeless",
+  "group": "mur_redstone_ore",
+  "ingredients": [
+    { "item": "minecraft:redstone" }, 
+    { "item": "minecraft:redstone" },
+    { "item": "minecraft:redstone" },
+    { "item": "minecraft:redstone" },
+    { "item": "minecraft:redstone" }, 
+    { "item": "minecraft:redstone" },
+    { "item": "minecraft:redstone" },
+    { "item": "minecraft:redstone" },
+    { "item": "minecraft:stone" }
+  ],
+  "result": {
+    "item": "minecraft:deepslate_redstone_ore"
+  }
 }

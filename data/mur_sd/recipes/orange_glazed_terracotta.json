@@ -1,21 +1,21 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "group": "sd_glazed_terracotta",
-    "pattern": [
-        "AAA",
-        "ABA",
-        "AAA"
-    ],
-    "key": {
-        "A":{
-            "tag": "mur_sd:orange_glazed_terracotta"
-        },
-        "B":{
-            "item": "minecraft:orange_dye"
-        }
+  "type": "minecraft:crafting_shaped",
+  "group": "sd_glazed_terracotta",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "tag": "mur_sd:orange_glazed_terracotta"
     },
-    "result": {
-        "item": "minecraft:orange_glazed_terracotta",
-        "count": 8
+    "B": {
+      "item": "minecraft:orange_dye"
     }
+  },
+  "result": {
+    "item": "minecraft:orange_glazed_terracotta",
+    "count": 8
+  }
 }

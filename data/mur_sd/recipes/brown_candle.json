@@ -1,15 +1,15 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "group": "sd_candle",
-    "ingredients": [
-      {
-        "tag": "mur_main:aaa_brown"
-      },
-      {
-        "tag": "mur_sd:brown_candle"
-      }
-    ],
-    "result": {
-      "item": "minecraft:brown_candle"
+  "type": "minecraft:crafting_shapeless",
+  "group": "sd_candle",
+  "ingredients": [
+    {
+      "tag": "mur_main:aaa_brown"
+    },
+    {
+      "tag": "mur_sd:brown_candle"
     }
+  ],
+  "result": {
+    "item": "minecraft:brown_candle"
+  }
 }

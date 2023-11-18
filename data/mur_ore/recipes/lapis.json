@@ -1,14 +1,14 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "group": "mur_lapis_ore",
-    "ingredients": [
-        { "item": "minecraft:lapis_block" }, 
-        { "item": "minecraft:lapis_block" },
-        { "item": "minecraft:lapis_block" },
-        { "item": "minecraft:lapis_block" },
-        { "item": "minecraft:stone" }
-    ],
-    "result": {
-        "item": "minecraft:lapis_ore"
-    }
+  "type": "minecraft:crafting_shapeless",
+  "group": "mur_lapis_ore",
+  "ingredients": [
+    { "item": "minecraft:lapis_block" }, 
+    { "item": "minecraft:lapis_block" },
+    { "item": "minecraft:lapis_block" },
+    { "item": "minecraft:lapis_block" },
+    { "item": "minecraft:stone" }
+  ],
+  "result": {
+    "item": "minecraft:lapis_ore"
+  }
 }

@@ -1,21 +1,21 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "group": "sd_concrete",
-    "pattern": [
-        "AAA",
-        "ABA",
-        "AAA"
-    ],
-    "key": {
-        "A":{
-            "tag": "mur_sd:blue_concrete"
-        },
-        "B":{
-            "tag": "mur_main:aaa_blue"
-        }
+  "type": "minecraft:crafting_shaped",
+  "group": "sd_concrete",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "tag": "mur_sd:blue_concrete"
     },
-    "result": {
-        "item": "minecraft:blue_concrete",
-        "count": 8
+    "B": {
+      "tag": "mur_main:aaa_blue"
     }
+  },
+  "result": {
+    "item": "minecraft:blue_concrete",
+    "count": 8
+  }
 }
