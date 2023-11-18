@@ -7,17 +7,17 @@
     "#AX"
   ],
   "key": {
-    "#":{
+    "#": {
       "item": "minecraft:stick"
     },
-    "X":{
+    "X": {
       "item": "minecraft:string"
     },
-    "A":{
+    "A": {
       "item": "minecraft:carrot"
     }
   },
   "result": {
-      "item": "minecraft:carrot_on_a_stick"
+    "item": "minecraft:carrot_on_a_stick"
   }
 }

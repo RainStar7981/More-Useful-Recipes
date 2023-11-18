@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shapeless",
   "group": "light_blue_dye",
   "ingredients": [
-    {
-      "tag": "mur_main:aaa_blue"
-    },
-    {
-      "tag": "mur_main:aaa_white"
-    }
+    { "tag": "mur_main:aaa_blue"},
+    { "tag": "mur_main:aaa_white" }
   ],
   "result": {
     "count": 2,

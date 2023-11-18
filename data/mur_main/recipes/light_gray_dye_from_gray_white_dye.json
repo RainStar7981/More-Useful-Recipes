@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shapeless",
   "group": "light_gray_dye",
   "ingredients": [
-    {
-      "item": "minecraft:gray_dye"
-    },
-    {
-      "tag": "mur_main:aaa_white"
-    }
+    { "item": "minecraft:gray_dye" },
+    { "tag": "mur_main:aaa_white" }
   ],
   "result": {
     "count": 2,

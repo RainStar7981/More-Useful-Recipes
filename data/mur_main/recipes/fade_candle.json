@@ -1,12 +1,8 @@
 {
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
-    {
-      "item": "minecraft:paper"
-    },
-    {
-      "tag": "mur_main:candle"
-    }
+    { "item": "minecraft:paper" },
+    { "tag": "mur_main:candle" }
   ],
   "result": {
     "item": "minecraft:candle"

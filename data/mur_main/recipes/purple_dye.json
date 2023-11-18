@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shapeless",
   "group": "purple_dye",
   "ingredients": [
-    {
-      "tag": "mur_main:aaa_blue"
-    },
-    {
-      "item": "minecraft:red_dye"
-    }
+    { "tag": "mur_main:aaa_blue" },
+    { "item": "minecraft:red_dye" }
   ],
   "result": {
     "count": 2,
