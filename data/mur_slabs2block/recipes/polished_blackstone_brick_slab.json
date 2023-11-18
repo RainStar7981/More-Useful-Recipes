@@ -1,16 +1,16 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "group": "mur_slabs2block",
-    "pattern": [
-        "A",
-        "A"
-    ],
-    "key": {
-        "A":{
-            "item": "minecraft:polished_blackstone_brick_slab"
-        }
-    },
-    "result": {
-        "item": "minecraft:polished_blackstone_bricks"
+  "type": "minecraft:crafting_shaped",
+  "group": "mur_slabs2block",
+  "pattern": [
+    "A",
+    "A"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:polished_blackstone_brick_slab"
     }
+  },
+  "result": {
+    "item": "minecraft:polished_blackstone_bricks"
+  }
 }

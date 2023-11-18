@@ -2,8 +2,8 @@
   "type": "minecraft:stonecutting",
   "group": "mur_templates_conversion",
   "ingredient": {
-      "tag": "mur_templates_conversion:silence"
+      "tag": "mur_conversion:template/tide"
   },
-  "result": "minecraft:silence_armor_trim_smithing_template",
+  "result": "minecraft:tide_armor_trim_smithing_template",
   "count": 1
 }

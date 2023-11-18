@@ -1,16 +1,16 @@
 {
-    "type": "minecraft:crafting_shaped",
-    "group": "mur_slabs2block",
-    "pattern": [
-        "A",
-        "A"
-    ],
-    "key": {
-        "A":{
-            "item": "minecraft:bamboo_slab"
-        }
-    },
-    "result": {
-        "item": "minecraft:bamboo_planks"
+  "type": "minecraft:crafting_shaped",
+  "group": "mur_slabs2block",
+  "pattern": [
+    "A",
+    "A"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:bamboo_slab"
     }
+  },
+  "result": {
+    "item": "minecraft:bamboo_planks"
+  }
 }

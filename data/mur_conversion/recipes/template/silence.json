@@ -2,8 +2,8 @@
   "type": "minecraft:stonecutting",
   "group": "mur_templates_conversion",
   "ingredient": {
-      "tag": "mur_templates_conversion:vex"
+      "tag": "mur_conversion:template/silence"
   },
-  "result": "minecraft:vex_armor_trim_smithing_template",
+  "result": "minecraft:silence_armor_trim_smithing_template",
   "count": 1
 }

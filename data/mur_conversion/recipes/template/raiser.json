@@ -2,8 +2,8 @@
   "type": "minecraft:stonecutting",
   "group": "mur_templates_conversion",
   "ingredient": {
-      "tag": "mur_templates_conversion:tide"
+      "tag": "mur_conversion:template/raiser"
   },
-  "result": "minecraft:tide_armor_trim_smithing_template",
+  "result": "minecraft:raiser_armor_trim_smithing_template",
   "count": 1
 }

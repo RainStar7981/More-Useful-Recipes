@@ -2,8 +2,8 @@
   "type": "minecraft:stonecutting",
   "group": "mur_templates_conversion",
   "ingredient": {
-      "tag": "mur_templates_conversion:wayfinder"
+      "tag": "mur_conversion:template/spire"
   },
-  "result": "minecraft:wayfinder_armor_trim_smithing_template",
+  "result": "minecraft:spire_armor_trim_smithing_template",
   "count": 1
 }
