@@ -26,7 +26,6 @@
 - 玻璃板可以用切石机切制
 - 楼梯切制为半砖
 - 可用于合成切石机的石头更多了（[见此](https://github.com/RainStar7981/More-Useful-Recipes/blob/main/rocks_for_stonecutter.md)）
-- 半砖合成整砖（有对应切制方块的除外）
 - 苔藓地毯可以染色为羊毛地毯
 - 红色下界砖系列可以用皮革褪色为下界砖系列
 - 下界砖系列可以用红色染料或下界疣染色为红色下界砖系列
