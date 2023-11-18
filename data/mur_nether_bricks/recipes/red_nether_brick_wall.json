@@ -1,15 +1,15 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "group": "mur_nether_bricks_dyeing",
-    "ingredients": [
-        {
-            "item": "minecraft:nether_brick_wall"
-        },
-        {
-            "tag": "mur_nether_bricks:nether_red"
-        }
-    ],
-    "result": {
-        "item": "minecraft:red_nether_brick_wall"
+  "type": "minecraft:crafting_shapeless",
+  "group": "mur_nether_bricks_dyeing",
+  "ingredients": [
+    {
+      "item": "minecraft:nether_brick_wall"
+    },
+    {
+      "tag": "mur_nether_bricks:nether_red"
     }
+  ],
+  "result": {
+    "item": "minecraft:red_nether_brick_wall"
+  }
 }
