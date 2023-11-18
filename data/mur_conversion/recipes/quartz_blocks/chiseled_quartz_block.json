@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": {
-    "tag": "mur_conversion:quartz_blocks/chiseled_quartz_block"
-  },
-  "result": "minecraft:chiseled_quartz_block",
-  "count": 1
-}

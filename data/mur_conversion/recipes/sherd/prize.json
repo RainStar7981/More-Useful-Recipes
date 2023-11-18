@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "group": "mur_sherd_conversion",
-  "ingredient": {
-      "tag": "mur_conversion:sherd/prize"
-  },
-  "result": "minecraft:prize_pottery_sherd",
-  "count": 1
-}

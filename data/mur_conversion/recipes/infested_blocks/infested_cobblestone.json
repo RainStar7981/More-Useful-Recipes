@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "group": "minecraft:infested_blocks_conversion",
-  "ingredient": {
-    "item": "minecraft:infested_cobblestone"
-  },
-  "result": "minecraft:cobblestone",
-  "count": 1
-}

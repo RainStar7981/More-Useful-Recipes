@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "group": "mur_coral_conversion",
-  "ingredient": {
-    "tag": "mur_conversion:coral/tube"
-  },
-  "result": "minecraft:tube_coral",
-  "count": 1
-}
