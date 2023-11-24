@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "mur_bamboo_and_mosaic_conversion",
+  "ingredient": {
+    "item": "minecraft:bamboo_mosaic"
+  },
+  "result": "minecraft:bamboo_block",
+  "count": 1
+}
