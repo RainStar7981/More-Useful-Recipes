@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "group": "mur_conversion_froglight",
-  "ingredient": {
-    "tag": "mur_conversion:froglight/verdant_froglight"
-  },
-  "result": "minecraft:verdant_froglight",
-  "count": 1
-}

@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "group": "mur_coral_conversion",
-  "ingredient": {
-    "tag": "mur_conversion:coral/dead_bubble"
-  },
-  "result": "minecraft:dead_bubble_coral",
-  "count": 1
-}

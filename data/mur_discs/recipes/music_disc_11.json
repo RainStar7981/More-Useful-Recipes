@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "group": "mur_discs",
-  "ingredient": {
-    "tag": "mur_discs:music_disc_11"
-  },
-  "result": "minecraft:music_disc_11",
-  "count": 1
-}

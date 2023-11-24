@@ -1,9 +1,0 @@
-{
-    "type": "minecraft:stonecutting",
-    "group": "mur_skull_conversion",
-    "ingredient": {
-        "tag": "mur_conversion:skull/skeleton_skull"
-    },
-    "result": "minecraft:skeleton_skull",
-    "count": 1
-}

@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "group": "mur_sherd_conversion",
-  "ingredient": {
-      "tag": "mur_conversion:sherd/sheaf"
-  },
-  "result": "minecraft:sheaf_pottery_sherd",
-  "count": 1
-}

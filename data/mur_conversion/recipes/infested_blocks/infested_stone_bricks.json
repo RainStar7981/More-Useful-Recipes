@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "group": "minecraft:infested_blocks_conversion",
-  "ingredient": {
-    "item": "minecraft:infested_stone_bricks"
-  },
-  "result": "minecraft:stone_bricks",
-  "count": 1
-}
