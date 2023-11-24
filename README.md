@@ -60,7 +60,7 @@
 - 台阶、楼梯与平滑台阶、楼梯相互转化
 - 各种音乐唱片、盔甲纹饰锻造模板、陶片、旗帜图案、蛙明灯、生物头颅（龙首和玩家头颅除外）相互转化
 
-## 副包中添加的配方
+## 副包
 
 - [`MUR_cheaper_template`](https://github.com/RainStar7981/More-Useful-Recipes/releases/tag/v1.0.0-cheaper_template) 锻造模板的更便宜配方（原钻石位置全部替换为对应方块）
 - `MUR_old_smithing_table` 使1.20（23w12a）前的版本中，半砖合成整砖可使用锻造台（计划）
