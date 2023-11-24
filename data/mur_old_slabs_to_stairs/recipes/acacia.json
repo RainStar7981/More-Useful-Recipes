@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:acacia_slab"
+  },
+  "addition": {
+    "item": "minecraft:acacia_slab"
+  },
+  "result": {
+    "item": "minecraft:acacia_planks"
+  }
+}

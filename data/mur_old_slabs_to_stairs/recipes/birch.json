@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:birch_slab"
+  },
+  "addition": {
+    "item": "minecraft:birch_slab"
+  },
+  "result": {
+    "item": "minecraft:birch_planks"
+  }
+}

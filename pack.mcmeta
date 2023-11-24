@@ -1,11 +1,7 @@
 {
   "pack": {
     "pack_format": 11,
-    "description": "§aMUR old smithing table §bv1.0.0\n§7by RainStar7981",
-    "supported_formats": {
-      "min_inclusive": 16,
-      "max_inclusive": 26
-    }
+    "description": "§aMUR old smithing table §bv1.0.0\n§7by RainStar7981"
   },
   "filter": {
     "block": [

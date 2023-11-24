@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:oak_slab"
+  },
+  "addition": {
+    "item": "minecraft:oak_slab"
+  },
+  "result": {
+    "item": "minecraft:oak_planks"
+  }
+}

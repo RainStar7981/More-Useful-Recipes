@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:cherry_slab"
+  },
+  "addition": {
+    "item": "minecraft:cherry_slab"
+  },
+  "result": {
+    "item": "minecraft:cherry_planks"
+  }
+}
