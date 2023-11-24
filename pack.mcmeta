@@ -4,7 +4,7 @@
     "description": "§aMUR cheaper template §bv1.0.1\n§7by RainStar7981",
     "supported_formats": {
       "min_inclusive": 16,
-      "max_inclusive": 26
+      "max_inclusive": 30
     }
   },
   "filter": {
