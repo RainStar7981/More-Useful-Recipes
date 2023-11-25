@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:prismarine_slab"
+  },
+  "addition": {
+    "item": "minecraft:prismarine_slab"
+  },
+  "result": {
+    "item": "minecraft:prismarine"
+  }
+}

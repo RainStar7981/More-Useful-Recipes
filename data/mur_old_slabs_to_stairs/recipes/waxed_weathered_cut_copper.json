@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:waxed_weathered_cut_copper_slab"
+  },
+  "addition": {
+    "item": "minecraft:waxed_weathered_cut_copper_slab"
+  },
+  "result": {
+    "item": "minecraft:waxed_weathered_cut_copper"
+  }
+}

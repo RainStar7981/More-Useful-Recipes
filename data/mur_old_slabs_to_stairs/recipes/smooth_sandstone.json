@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:smooth_sandstone_slab"
+  },
+  "addition": {
+    "item": "minecraft:smooth_sandstone_slab"
+  },
+  "result": {
+    "item": "minecraft:smooth_sandstone"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:polished_granite_slab"
+  },
+  "addition": {
+    "item": "minecraft:polished_granite_slab"
+  },
+  "result": {
+    "item": "minecraft:polished_granite"
+  }
+}

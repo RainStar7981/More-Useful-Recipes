@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:cobbled_deepslate_slab"
+  },
+  "addition": {
+    "item": "minecraft:cobbled_deepslate_slab"
+  },
+  "result": {
+    "item": "minecraft:cobbled_deepslate"
+  }
+}

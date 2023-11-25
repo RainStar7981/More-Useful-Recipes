@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:red_sandstone_slab"
+  },
+  "addition": {
+    "item": "minecraft:red_sandstone_slab"
+  },
+  "result": {
+    "item": "minecraft:red_sandstone"
+  }
+}
