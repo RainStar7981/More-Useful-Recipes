@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:purpur_slab"
+  },
+  "addition": {
+    "item": "minecraft:purpur_slab"
+  },
+  "result": {
+    "item": "minecraft:purpur_block"
+  }
+}

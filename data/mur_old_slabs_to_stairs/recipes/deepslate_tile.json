@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:deepslate_tile_slab"
+  },
+  "addition": {
+    "item": "minecraft:deepslate_tile_slab"
+  },
+  "result": {
+    "item": "minecraft:deepslate_tiles"
+  }
+}

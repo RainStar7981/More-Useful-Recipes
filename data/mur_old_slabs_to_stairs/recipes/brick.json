@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:brick_slab"
+  },
+  "addition": {
+    "item": "minecraft:brick_slab"
+  },
+  "result": {
+    "item": "minecraft:bricks"
+  }
+}
