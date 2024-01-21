@@ -1,6 +1,6 @@
 {
   "criteria": {
-    "palyer_is_alive": {
+    "unlock_crafting_table": {
       "conditions": {
         "recipe": "minecraft:crafting_table"
       },
@@ -8,10 +8,7 @@
     }
   },
   "rewards": {
-    "recipes": [
-      "mur_blasting:*",
-      "mur_carpets"
-    ]
+    "function": "mur_main:unlock_recipes"
   },
   "sends_telemetry_event": false
 }
