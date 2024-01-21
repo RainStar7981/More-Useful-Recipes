@@ -1,0 +1,2 @@
+recipe give @s mur_conversion:cobbled_deepslate_to_deepslate
+recipe give @s mur_conversion:deepslate_to_cobbled_deepslate
