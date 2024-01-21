@@ -1,0 +1,1 @@
+recipe give @s mur_conversion:bamboo_mosaic
