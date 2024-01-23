@@ -14,6 +14,7 @@
     "mur_main:conversion_sherd",
     "mur_main:conversion_skull",
     "mur_main:conversion_template",
-    "mur_main:conversion_rest"
+    "mur_main:conversion_rest",
+    "mur_main:conversion_discs"
   ]
 }

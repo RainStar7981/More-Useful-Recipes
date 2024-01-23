@@ -2,8 +2,8 @@
   "type": "minecraft:stonecutting",
   "group": "mur_discs",
   "ingredient": {
-    "tag": "mur_discs:music_disc_11"
+    "tag": "mur_conversion/discs:music_disc_wait"
   },
-  "result": "minecraft:music_disc_11",
+  "result": "minecraft:music_disc_wait",
   "count": 1
 }
