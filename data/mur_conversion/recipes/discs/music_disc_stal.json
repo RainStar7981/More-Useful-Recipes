@@ -2,7 +2,7 @@
   "type": "minecraft:stonecutting",
   "group": "mur_discs",
   "ingredient": {
-    "tag": "mur_conversion/discs:music_disc_stal"
+    "tag": "mur_conversion:discs/music_disc_stal"
   },
   "result": "minecraft:music_disc_stal",
   "count": 1
