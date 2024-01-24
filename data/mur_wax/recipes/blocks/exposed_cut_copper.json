@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "mur_wax_copper_blocks",
+  "ingredients": [
+    { "tag": "mur_wax:blocks/exposed_cut_copper" },
+    { "item": "minecraft:honeycomb" }
+  ],
+  "result": {
+    "item": "minecraft:waxed_exposed_cut_copper"
+  }
+}

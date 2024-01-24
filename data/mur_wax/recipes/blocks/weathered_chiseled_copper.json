@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "mur_wax_copper_blocks",
+  "ingredients": [
+    { "tag": "mur_wax:blocks/weathered_chiseled_copper" },
+    { "item": "minecraft:honeycomb" }
+  ],
+  "result": {
+    "item": "minecraft:waxed_weathered_chiseled_copper"
+  }
+}
