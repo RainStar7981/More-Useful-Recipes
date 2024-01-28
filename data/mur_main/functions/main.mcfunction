@@ -5,8 +5,6 @@ recipe give @s mur_main:carrot_on_a_stick
 recipe give @s mur_main:cobweb
 recipe give @s mur_main:cobweb_to_strings
 recipe give @s mur_main:crimson_fungus_from_mushrooms
-recipe give @s mur_main:cyan_dye
-recipe give @s mur_main:dark_prismarine
 recipe give @s mur_main:daylight_detector_plus
 recipe give @s mur_main:diamond_horse_armor
 recipe give @s mur_main:e_golden_apple
@@ -19,18 +17,9 @@ recipe give @s mur_main:fade_glass_pane
 recipe give @s mur_main:fade_terracotta
 recipe give @s mur_main:glass_bottle_plus
 recipe give @s mur_main:golden_horse_armor
-recipe give @s mur_main:gray_dye
 recipe give @s mur_main:iron_horse_armor
-recipe give @s mur_main:light_blue_dye_from_blue_white_dye
-recipe give @s mur_main:light_gray_dye_from_black_white_dye
-recipe give @s mur_main:light_gray_dye_from_gray_white_dye
-recipe give @s mur_main:lime_dye
-recipe give @s mur_main:magenta_dye_from_blue_red_pink
-recipe give @s mur_main:magenta_dye_from_blue_red_white_dye
 recipe give @s mur_main:not_be_stonecutter
-recipe give @s mur_main:pink_dye_from_red_white_dye
 recipe give @s mur_main:popped_chorus_fruit_smoking
-recipe give @s mur_main:purple_dye
 recipe give @s mur_main:saddle
 recipe give @s mur_main:snow_to_snow_block
 recipe give @s mur_main:snowball_to_snow
