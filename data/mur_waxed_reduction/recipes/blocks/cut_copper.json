@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "mur_waxed_reduction",
+  "ingredient": {
+    "item": "minecraft:waxed_cut_copper"
+  },
+  "result": "minecraft:cut_copper",
+  "count": 1
+}

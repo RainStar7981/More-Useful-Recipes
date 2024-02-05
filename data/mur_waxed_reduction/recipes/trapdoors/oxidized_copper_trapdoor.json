@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "mur_waxed_reduction",
+  "ingredient": {
+    "item": "minecraft:waxed_oxidized_copper_trapdoor"
+  },
+  "result": "minecraft:oxidized_copper_trapdoor",
+  "count": 1
+}

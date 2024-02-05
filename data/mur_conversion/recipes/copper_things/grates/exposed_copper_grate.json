@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "mur_copper_things_conversion",
+  "ingredient": {
+    "tag": "mur_conversion:copper_things/grates/exposed_copper_grate"
+  },
+  "result": "minecraft:exposed_copper_grate",
+  "count": 1
+}
