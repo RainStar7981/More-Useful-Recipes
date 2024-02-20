@@ -1,10 +1,10 @@
 {
   "pack": {
     "pack_format": 13,
-    "description": "§a更多实用配方 §bv1.8.2\n§7by RainStar7981",
+    "description": "§a更多实用配方 §bv1.9.0\n§7by RainStar7981",
     "supported_formats": {
       "min_inclusive": 16,
-      "max_inclusive": 30
+      "max_inclusive": 40
     }
   }
 }
