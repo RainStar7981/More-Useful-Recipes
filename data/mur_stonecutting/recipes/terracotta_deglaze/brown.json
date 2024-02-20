@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "mur_terracotta_deglaze",
+  "ingredient": {
+    "item": "minecraft:brown_glazed_terracotta"
+  },
+  "result": "minecraft:brown_terracotta",
+  "count": 1
+}
