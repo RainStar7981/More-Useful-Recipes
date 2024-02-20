@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "mur_main:glass_pane"
+  },
+  "result": "minecraft:glass_pane",
+  "count": 1
+}

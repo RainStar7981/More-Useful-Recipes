@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "mur_main:candle"
+  },
+  "result": "minecraft:candle",
+  "count": 1
+}
