@@ -1,15 +1,9 @@
 {
-   "type": "minecraft:crafting_shapeless",
+   "type": "minecraft:stonecutting",
    "group": "mur_red_nether_brick_decoloring",
-   "ingredients": [
-      {
-         "item": "minecraft:red_nether_bricks"
-      },
-      {
-         "item": "minecraft:leather"
-      }
-   ],
-   "result": {
-      "item": "minecraft:nether_bricks"
-   }
-}
+   "ingredient": {
+     "item": "minecraft:red_nether_bricks"
+   },
+   "result": "minecraft:nether_bricks",
+   "count": 1
+ }
