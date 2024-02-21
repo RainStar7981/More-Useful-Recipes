@@ -1,12 +1,12 @@
 {
   "pack": {
     "pack_format": 11,
-    "description": "§aMUR old smithing table §bv1.0.0\n§7by RainStar7981"
+    "description": "§aMUR old smithing table §bv1.0.1\n§7by RainStar7981"
   },
   "filter": {
     "block": [
       {
-        "namespace": "mur_slabs_to_stairs",
+        "namespace": "mur_slabs2stairs",
         "path": "recipes/.*"
       }
     ]
