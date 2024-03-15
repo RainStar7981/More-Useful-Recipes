@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "mur_block_to_coral",
+  "ingredient": {
+    "item": "minecraft:brain_coral_block"
+  },
+  "result": "minecraft:brain_coral",
+  "count": 4
+}
