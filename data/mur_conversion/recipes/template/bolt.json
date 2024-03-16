@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "mur_templates_conversion",
+  "ingredient": {
+      "tag": "mur_conversion:template/bolt"
+  },
+  "result": "minecraft:bolt_armor_trim_smithing_template",
+  "count": 1
+}

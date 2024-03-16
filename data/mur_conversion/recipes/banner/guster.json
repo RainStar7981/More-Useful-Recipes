@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "mur_banner_conversion",
+  "ingredient": {
+    "tag": "mur_conversion:banner/guster"
+  },
+  "result": "minecraft:guster_banner_pattern",
+  "count": 1
+}
