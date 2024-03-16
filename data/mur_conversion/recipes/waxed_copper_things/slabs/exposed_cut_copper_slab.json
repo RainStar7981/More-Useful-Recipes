@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "mur_copper_things_conversion",
+  "ingredient": {
+    "tag": "mur_conversion:waxed_copper_things/slabs/exposed_cut_copper_slab"
+  },
+  "result": "minecraft:waxed_exposed_cut_copper_slab",
+  "count": 1
+}

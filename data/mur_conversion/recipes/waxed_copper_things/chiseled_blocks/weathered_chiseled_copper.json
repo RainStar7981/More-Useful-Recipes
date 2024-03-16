@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "mur_copper_things_conversion",
+  "ingredient": {
+    "tag": "mur_conversion:waxed_copper_things/chiseled_blocks/weathered_chiseled_copper"
+  },
+  "result": "minecraft:waxed_weathered_chiseled_copper",
+  "count": 1
+}
