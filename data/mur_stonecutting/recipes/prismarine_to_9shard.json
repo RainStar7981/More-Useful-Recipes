@@ -1,7 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": {
-    "item": "minecraft:prismarine_bricks"
+    "tag": "mur_stonecutting:prismarine_shard9"
   },
   "result": "minecraft:prismarine_shard",
   "count": 9
