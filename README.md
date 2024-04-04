@@ -125,5 +125,5 @@
 
 ## 副包
 
-- [`MUR_cheaper_template`](https://github.com/RainStar7981/More-Useful-Recipes/releases/tag/v1.0.2-cheaper_template) 锻造模板的更便宜配方（原钻石位置全部替换为对应方块）
+- [`MUR_cheaper_template`](https://github.com/RainStar7981/More-Useful-Recipes/releases/tag/v1.0.3-cheaper_template) 锻造模板的更便宜配方（原钻石位置全部替换为对应方块）
 - [`MUR_old_smithing_table`](https://github.com/RainStar7981/More-Useful-Recipes/releases/tag/v1.0.1-old_smithing_table) 使1.20（23w12a）前的版本中，半砖合成整砖可使用锻造台
