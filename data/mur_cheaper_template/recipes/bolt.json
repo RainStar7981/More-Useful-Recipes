@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "mur_cheap_template",
+  "category": "misc",
+  "key": {
+    "C": {
+      "tag": "mur_cheaper_template:bolt_coppers"
+    },
+    "S": {
+      "item": "minecraft:bolt_armor_trim_smithing_template"
+    }
+  },
+  "pattern": [
+    "CSC",
+    "CCC",
+    "CCC"
+  ],
+  "result": {
+    "count": 2,
+    "item": "minecraft:bolt_armor_trim_smithing_template"
+  }
+}
