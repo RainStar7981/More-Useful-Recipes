@@ -14,6 +14,7 @@
     "minecraft:music_disc_otherside",
     "minecraft:music_disc_5",
     "minecraft:music_disc_11",
-    "minecraft:music_disc_pigstep"
+    "minecraft:music_disc_pigstep",
+    "#mur_conversion/discs:music_disc_of_1.21"
   ]
 }
