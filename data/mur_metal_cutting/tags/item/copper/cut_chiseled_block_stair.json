@@ -1,0 +1,16 @@
+{
+  "values": [
+    "#mur_conversion:copper_things/chiseled_blocks/chiseled_copper",
+    "minecraft:chiseled_copper",
+    "#mur_conversion:copper_things/cut_blocks/cut_copper",
+    "minecraft:cut_copper",
+    "#mur_conversion:copper_things/stairs/cut_copper_stairs",
+    "minecraft:cut_copper_stairs",
+    "#mur_conversion:waxed_copper_things/chiseled_blocks/chiseled_copper",
+    "minecraft:chiseled_copper",
+    "#mur_conversion:waxed_copper_things/cut_blocks/cut_copper",
+    "minecraft:cut_copper",
+    "#mur_conversion:waxed_copper_things/stairs/cut_copper_stairs",
+    "minecraft:cut_copper_stairs"
+  ]
+}

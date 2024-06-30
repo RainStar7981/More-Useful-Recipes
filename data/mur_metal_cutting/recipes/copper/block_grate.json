@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "mur_metal_cutting:copper/block_grate"
+  },
+  "result": "minecraft:copper_ingot",
+  "count": 9
+}

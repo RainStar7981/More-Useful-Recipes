@@ -1,0 +1,12 @@
+{
+  "values": [
+    "#mur_conversion:copper_things/blocks/copper_block",
+    "minecraft:copper_block",
+    "#mur_conversion:copper_things/grates/copper_grate",
+    "minecraft:copper_grate",
+    "#mur_conversion:waxed_copper_things/blocks/copper_block",
+    "minecraft:copper_block",
+    "#mur_conversion:waxed_copper_things/grates/copper_grate",
+    "minecraft:copper_grate"
+  ]
+}
