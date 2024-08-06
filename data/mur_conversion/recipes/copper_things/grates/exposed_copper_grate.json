@@ -4,6 +4,8 @@
   "ingredient": {
     "tag": "mur_conversion:copper_things/grates/exposed_copper_grate"
   },
-  "result": "minecraft:exposed_copper_grate",
-  "count": 1
+  "result": {
+    "id": "minecraft:exposed_copper_grate",
+    "count": 1
+  }
 }

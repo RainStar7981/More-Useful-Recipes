@@ -4,6 +4,8 @@
   "ingredient": {
     "tag": "mur_conversion:copper_things/blocks/weathered_copper"
   },
-  "result": "minecraft:weathered_copper",
-  "count": 1
+  "result": {
+    "id": "minecraft:weathered_copper",
+    "count": 1
+  }
 }

@@ -4,6 +4,8 @@
   "ingredient": {
     "tag": "mur_conversion:copper_things/grates/weathered_copper_grate"
   },
-  "result": "minecraft:weathered_copper_grate",
-  "count": 1
+  "result": {
+    "id": "minecraft:weathered_copper_grate",
+    "count": 1
+  }
 }

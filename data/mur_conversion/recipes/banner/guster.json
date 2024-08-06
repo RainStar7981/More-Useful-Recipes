@@ -4,6 +4,8 @@
   "ingredient": {
     "tag": "mur_conversion:banner/guster"
   },
-  "result": "minecraft:guster_banner_pattern",
-  "count": 1
+  "result": {
+    "id": "minecraft:guster_banner_pattern",
+    "count": 1
+  }
 }

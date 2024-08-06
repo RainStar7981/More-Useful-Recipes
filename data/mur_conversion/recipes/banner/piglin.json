@@ -4,6 +4,8 @@
   "ingredient": {
     "tag": "mur_conversion:banner/piglin"
   },
-  "result": "minecraft:piglin_banner_pattern",
-  "count": 1
+  "result": {
+    "id": "minecraft:piglin_banner_pattern",
+    "count": 1
+  }
 }

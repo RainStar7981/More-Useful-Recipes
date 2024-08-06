@@ -4,6 +4,8 @@
   "ingredient": {
     "tag": "mur_conversion:copper_things/cut_blocks/oxidized_cut_copper"
   },
-  "result": "minecraft:oxidized_cut_copper",
-  "count": 1
+  "result": {
+    "id": "minecraft:oxidized_cut_copper",
+    "count": 1
+  }
 }

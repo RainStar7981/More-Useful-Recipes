@@ -4,6 +4,8 @@
   "ingredient": {
     "tag": "mur_conversion:banner/skull"
   },
-  "result": "minecraft:skull_banner_pattern",
-  "count": 1
+  "result": {
+    "id": "minecraft:skull_banner_pattern",
+    "count": 1
+  }
 }

@@ -4,6 +4,8 @@
   "ingredient": {
     "tag": "mur_conversion:copper_things/bulbs/copper_bulb"
   },
-  "result": "minecraft:copper_bulb",
-  "count": 1
+  "result": {
+    "id": "minecraft:copper_bulb",
+    "count": 1
+  }
 }
