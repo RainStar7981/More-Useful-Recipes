@@ -7,14 +7,14 @@
     "   "
   ],
   "key": {
-    "A":{
+    "A": {
       "item": "minecraft:spruce_planks"
     },
-    "B":{
+    "B": {
       "item": "minecraft:chest"
     }
   },
   "result": {
-      "item": "minecraft:spruce_chest_boat"
+    "id": "minecraft:spruce_chest_boat"
   }
 }

@@ -6,6 +6,6 @@
     { "tag": "mur_main:aaa_brown" }
   ],
   "result": {
-    "item": "minecraft:brown_carpet"
+    "id": "minecraft:brown_carpet"
   }
 }

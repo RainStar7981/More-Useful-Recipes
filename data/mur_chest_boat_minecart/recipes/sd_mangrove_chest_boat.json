@@ -7,14 +7,14 @@
     "   "
   ],
   "key": {
-    "A":{
+    "A": {
       "item": "minecraft:mangrove_planks"
     },
-    "B":{
+    "B": {
       "item": "minecraft:chest"
     }
   },
   "result": {
-      "item": "minecraft:mangrove_chest_boat"
+    "id": "minecraft:mangrove_chest_boat"
   }
 }

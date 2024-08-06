@@ -6,6 +6,6 @@
     { "tag": "mur_main:aaa_blue" }
   ],
   "result": {
-    "item": "minecraft:blue_carpet"
+    "id": "minecraft:blue_carpet"
   }
 }
