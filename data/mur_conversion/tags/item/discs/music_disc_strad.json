@@ -15,6 +15,6 @@
     "minecraft:music_disc_5",
     "minecraft:music_disc_11",
     "minecraft:music_disc_relic",
-    "#mur_conversion/discs:music_disc_of_1.21"
+    "#mur_conversion:discs/music_disc_of_1.21"
   ]
 }
