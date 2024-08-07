@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "mur_copper_things_conversion",
+  "ingredient": {
+    "tag": "mur_conversion:copper_things/blocks/weathered_copper"
+  },
+  "result": {
+    "id": "minecraft:weathered_copper",
+    "count": 1
+  }
+}

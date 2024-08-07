@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "mur_copper_things_conversion",
+  "ingredient": {
+    "tag": "mur_conversion:copper_things/blocks/exposed_copper"
+  },
+  "result": {
+    "id": "minecraft:exposed_copper",
+    "count": 1
+  }
+}
