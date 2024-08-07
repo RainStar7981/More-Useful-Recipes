@@ -6,7 +6,6 @@
     { "tag": "mur_main:aaa_black" }
   ],
   "result": {
-    "id": "minecraft:black_carpet",
-    "count": 1
+    "id": "minecraft:black_carpet"
   }
 }
