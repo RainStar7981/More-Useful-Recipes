@@ -1,0 +1,17 @@
+{
+  "parent": "mur_main:mur_recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "mur_carpets:dyeing/black_carpet"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "mur_carpets:dyeing/black_carpet",
+      "mur_carpets:dyeing/blue_carpet"
+    ]
+  }
+}

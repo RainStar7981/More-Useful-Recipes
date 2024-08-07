@@ -4,6 +4,8 @@
   "ingredient": {
     "item": "minecraft:brain_coral_block"
   },
-  "result": "minecraft:brain_coral",
-  "count": 4
+  "result": {
+    "id": "minecraft:brain_coral",
+    "count": 4
+  }
 }
