@@ -4,10 +4,10 @@
   "category": "misc",
   "key": {
     "C": {
-      "item": "minecraft:netherrack"
+      "item": "minecraft:prismarine"
     },
     "S": {
-      "item": "minecraft:netherite_upgrade_smithing_template"
+      "item": "minecraft:tide_armor_trim_smithing_template"
     }
   },
   "pattern": [
@@ -17,6 +17,6 @@
   ],
   "result": {
     "count": 2,
-    "item": "minecraft:netherite_upgrade_smithing_template"
+    "id": "minecraft:tide_armor_trim_smithing_template"
   }
 }

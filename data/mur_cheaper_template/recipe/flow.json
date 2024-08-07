@@ -4,10 +4,10 @@
   "category": "misc",
   "key": {
     "C": {
-      "item": "minecraft:end_stone"
+      "item": "minecraft:breeze_rod"
     },
     "S": {
-      "item": "minecraft:eye_armor_trim_smithing_template"
+      "item": "minecraft:flow_armor_trim_smithing_template"
     }
   },
   "pattern": [
@@ -17,6 +17,6 @@
   ],
   "result": {
     "count": 2,
-    "item": "minecraft:eye_armor_trim_smithing_template"
+    "id": "minecraft:flow_armor_trim_smithing_template"
   }
 }

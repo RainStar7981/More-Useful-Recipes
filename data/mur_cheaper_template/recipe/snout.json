@@ -4,10 +4,10 @@
   "category": "misc",
   "key": {
     "C": {
-      "tag": "mur_cheaper_template:bolt_coppers"
+      "item": "minecraft:blackstone"
     },
     "S": {
-      "item": "minecraft:bolt_armor_trim_smithing_template"
+      "item": "minecraft:snout_armor_trim_smithing_template"
     }
   },
   "pattern": [
@@ -17,6 +17,6 @@
   ],
   "result": {
     "count": 2,
-    "item": "minecraft:bolt_armor_trim_smithing_template"
+    "id": "minecraft:snout_armor_trim_smithing_template"
   }
 }
