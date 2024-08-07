@@ -3,6 +3,8 @@
   "ingredient": {
     "item": "minecraft:cobblestone_stairs"
   },
-  "result": "minecraft:cobblestone_slab",
-  "count": 2
+  "result": {
+    "id": "minecraft:cobblestone_slab",
+    "count": 2
+  }
 }

@@ -3,6 +3,8 @@
   "ingredient": {
     "item": "minecraft:granite_stairs"
   },
-  "result": "minecraft:granite_slab",
-  "count": 2
+  "result": {
+    "id": "minecraft:granite_slab",
+    "count": 2
+  }
 }

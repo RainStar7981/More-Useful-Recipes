@@ -3,6 +3,8 @@
   "ingredient": {
     "item": "minecraft:purple_stained_glass"
   },
-  "result": "minecraft:purple_stained_glass_pane",
-  "count": 3
+  "result": {
+    "id": "minecraft:purple_stained_glass_pane",
+    "count": 3
+  }
 }
