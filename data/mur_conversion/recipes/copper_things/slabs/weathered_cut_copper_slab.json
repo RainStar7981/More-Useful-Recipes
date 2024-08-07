@@ -4,6 +4,8 @@
   "ingredient": {
     "tag": "mur_conversion:copper_things/slabs/weathered_cut_copper_slab"
   },
-  "result": "minecraft:weathered_cut_copper_slab",
-  "count": 1
+  "result": {
+    "id": "minecraft:weathered_cut_copper_slab",
+    "count": 1
+  }
 }

@@ -2,8 +2,10 @@
   "type": "minecraft:stonecutting",
   "group": "mur_sherd_conversion",
   "ingredient": {
-      "tag": "mur_conversion:sherd/plenty"
+    "tag": "mur_conversion:sherd/plenty"
   },
-  "result": "minecraft:plenty_pottery_sherd",
-  "count": 1
+  "result": {
+    "id": "minecraft:plenty_pottery_sherd",
+    "count": 1
+  }
 }

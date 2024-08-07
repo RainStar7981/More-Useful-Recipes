@@ -4,6 +4,8 @@
   "ingredient": {
     "item": "minecraft:infested_cracked_stone_bricks"
   },
-  "result": "minecraft:cracked_stone_bricks",
-  "count": 1
+  "result": {
+    "id": "minecraft:cracked_stone_bricks",
+    "count": 1
+  }
 }

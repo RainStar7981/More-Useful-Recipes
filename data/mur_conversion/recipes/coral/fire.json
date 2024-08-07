@@ -4,6 +4,8 @@
   "ingredient": {
     "tag": "mur_conversion:coral/fire"
   },
-  "result": "minecraft:fire_coral",
-  "count": 1
+  "result": {
+    "id": "minecraft:fire_coral",
+    "count": 1
+  }
 }

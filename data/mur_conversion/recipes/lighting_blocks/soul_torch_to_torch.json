@@ -3,6 +3,8 @@
   "ingredient": {
     "item": "minecraft:soul_torch"
   },
-  "result": "minecraft:torch",
-  "count": 1
+  "result": {
+    "id": "minecraft:torch",
+    "count": 1
+  }
 }

@@ -2,8 +2,10 @@
   "type": "minecraft:stonecutting",
   "group": "mur_sherd_conversion",
   "ingredient": {
-      "tag": "mur_conversion:sherd/heart"
+    "tag": "mur_conversion:sherd/heart"
   },
-  "result": "minecraft:heart_pottery_sherd",
-  "count": 1
+  "result": {
+    "id": "minecraft:heart_pottery_sherd",
+    "count": 1
+  }
 }

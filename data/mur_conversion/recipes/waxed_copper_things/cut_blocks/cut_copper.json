@@ -4,6 +4,8 @@
   "ingredient": {
     "tag": "mur_conversion:waxed_copper_things/cut_blocks/cut_copper"
   },
-  "result": "minecraft:waxed_cut_copper",
-  "count": 1
+  "result": {
+    "id": "minecraft:waxed_cut_copper",
+    "count": 1
+  }
 }

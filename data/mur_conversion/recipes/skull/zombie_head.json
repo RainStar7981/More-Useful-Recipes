@@ -1,9 +1,11 @@
 {
-    "type": "minecraft:stonecutting",
-    "group": "mur_skull_conversion",
-    "ingredient": {
-        "tag": "mur_conversion:skull/zombie_head"
-    },
-    "result": "minecraft:zombie_head",
+  "type": "minecraft:stonecutting",
+  "group": "mur_skull_conversion",
+  "ingredient": {
+    "tag": "mur_conversion:skull/zombie_head"
+  },
+  "result": {
+    "id": "minecraft:zombie_head",
     "count": 1
+  }
 }

@@ -2,8 +2,10 @@
   "type": "minecraft:stonecutting",
   "group": "mur_templates_conversion",
   "ingredient": {
-      "tag": "mur_conversion:template/host"
+    "tag": "mur_conversion:template/host"
   },
-  "result": "minecraft:host_armor_trim_smithing_template",
-  "count": 1
+  "result": {
+    "id": "minecraft:host_armor_trim_smithing_template",
+    "count": 1
+  }
 }

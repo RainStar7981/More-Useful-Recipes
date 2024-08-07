@@ -4,6 +4,8 @@
   "ingredient": {
     "tag": "mur_conversion:coral_block/dead_tube"
   },
-  "result": "minecraft:dead_tube_coral_block",
-  "count": 1
+  "result": {
+    "id": "minecraft:dead_tube_coral_block",
+    "count": 1
+  }
 }

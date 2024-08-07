@@ -4,6 +4,8 @@
   "ingredient": {
     "item": "minecraft:infested_stone"
   },
-  "result": "minecraft:stone",
-  "count": 1
+  "result": {
+    "id": "minecraft:stone",
+    "count": 1
+  }
 }

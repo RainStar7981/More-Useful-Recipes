@@ -4,6 +4,8 @@
   "ingredient": {
     "tag": "mur_conversion:coral/bubble"
   },
-  "result": "minecraft:bubble_coral",
-  "count": 1
+  "result": {
+    "id": "minecraft:bubble_coral",
+    "count": 1
+  }
 }

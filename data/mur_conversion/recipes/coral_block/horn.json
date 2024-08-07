@@ -4,6 +4,8 @@
   "ingredient": {
     "tag": "mur_conversion:coral_block/horn"
   },
-  "result": "minecraft:horn_coral_block",
-  "count": 1
+  "result": {
+    "id": "minecraft:horn_coral_block",
+    "count": 1
+  }
 }

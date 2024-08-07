@@ -4,6 +4,8 @@
   "ingredient": {
     "tag": "mur_conversion:coral_fan/dead_brain"
   },
-  "result": "minecraft:dead_brain_coral_fan",
-  "count": 1
+  "result": {
+    "id": "minecraft:dead_brain_coral_fan",
+    "count": 1
+  }
 }

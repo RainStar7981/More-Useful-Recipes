@@ -4,6 +4,8 @@
   "ingredient": {
     "item": "minecraft:infested_deepslate"
   },
-  "result": "minecraft:deepslate",
-  "count": 1
+  "result": {
+    "id": "minecraft:deepslate",
+    "count": 1
+  }
 }

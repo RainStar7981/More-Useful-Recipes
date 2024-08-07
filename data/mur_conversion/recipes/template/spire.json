@@ -2,8 +2,10 @@
   "type": "minecraft:stonecutting",
   "group": "mur_templates_conversion",
   "ingredient": {
-      "tag": "mur_conversion:template/spire"
+    "tag": "mur_conversion:template/spire"
   },
-  "result": "minecraft:spire_armor_trim_smithing_template",
-  "count": 1
+  "result": {
+    "id": "minecraft:spire_armor_trim_smithing_template",
+    "count": 1
+  }
 }

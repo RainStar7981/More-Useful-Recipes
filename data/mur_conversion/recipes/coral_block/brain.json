@@ -4,6 +4,8 @@
   "ingredient": {
     "tag": "mur_conversion:coral_block/brain"
   },
-  "result": "minecraft:brain_coral_block",
-  "count": 1
+  "result": {
+    "id": "minecraft:brain_coral_block",
+    "count": 1
+  }
 }

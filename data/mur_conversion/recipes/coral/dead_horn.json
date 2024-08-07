@@ -4,6 +4,8 @@
   "ingredient": {
     "tag": "mur_conversion:coral/dead_horn"
   },
-  "result": "minecraft:dead_horn_coral",
-  "count": 1
+  "result": {
+    "id": "minecraft:dead_horn_coral",
+    "count": 1
+  }
 }

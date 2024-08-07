@@ -4,6 +4,8 @@
   "ingredient": {
     "tag": "mur_conversion:coral_block/tube"
   },
-  "result": "minecraft:tube_coral_block",
-  "count": 1
+  "result": {
+    "id": "minecraft:tube_coral_block",
+    "count": 1
+  }
 }

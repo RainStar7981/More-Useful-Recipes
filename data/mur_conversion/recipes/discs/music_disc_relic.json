@@ -4,6 +4,8 @@
   "ingredient": {
     "tag": "mur_conversion:discs/music_disc_relic"
   },
-  "result": "minecraft:music_disc_relic",
-  "count": 1
+  "result": {
+    "id": "minecraft:music_disc_relic",
+    "count": 1
+  }
 }

@@ -4,6 +4,8 @@
   "ingredient": {
     "tag": "mur_conversion:waxed_copper_things/trapdoors/copper_trapdoor"
   },
-  "result": "minecraft:waxed_copper_trapdoor",
-  "count": 1
+  "result": {
+    "id": "minecraft:waxed_copper_trapdoor",
+    "count": 1
+  }
 }

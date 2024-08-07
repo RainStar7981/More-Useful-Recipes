@@ -4,6 +4,8 @@
   "ingredient": {
     "tag": "mur_conversion:froglight/ochre_froglight"
   },
-  "result": "minecraft:ochre_froglight",
-  "count": 1
+  "result": {
+    "id": "minecraft:ochre_froglight",
+    "count": 1
+  }
 }

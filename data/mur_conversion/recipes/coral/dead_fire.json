@@ -4,6 +4,8 @@
   "ingredient": {
     "tag": "mur_conversion:coral/dead_fire"
   },
-  "result": "minecraft:dead_fire_coral",
-  "count": 1
+  "result": {
+    "id": "minecraft:dead_fire_coral",
+    "count": 1
+  }
 }

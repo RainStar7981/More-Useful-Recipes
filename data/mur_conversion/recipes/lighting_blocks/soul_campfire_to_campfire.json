@@ -3,6 +3,8 @@
   "ingredient": {
     "item": "minecraft:soul_campfire"
   },
-  "result": "minecraft:campfire",
-  "count": 1
+  "result": {
+    "id": "minecraft:campfire",
+    "count": 1
+  }
 }

@@ -2,8 +2,10 @@
   "type": "minecraft:stonecutting",
   "group": "mur_templates_conversion",
   "ingredient": {
-      "tag": "mur_conversion:template/wild"
+    "tag": "mur_conversion:template/wild"
   },
-  "result": "minecraft:wild_armor_trim_smithing_template",
-  "count": 1
+  "result": {
+    "id": "minecraft:wild_armor_trim_smithing_template",
+    "count": 1
+  }
 }

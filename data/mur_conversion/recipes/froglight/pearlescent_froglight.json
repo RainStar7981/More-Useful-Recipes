@@ -4,6 +4,8 @@
   "ingredient": {
     "tag": "mur_conversion:froglight/pearlescent_froglight"
   },
-  "result": "minecraft:pearlescent_froglight",
-  "count": 1
+  "result": {
+    "id": "minecraft:pearlescent_froglight",
+    "count": 1
+  }
 }

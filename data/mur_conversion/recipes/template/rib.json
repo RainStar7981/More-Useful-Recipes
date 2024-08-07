@@ -2,8 +2,10 @@
   "type": "minecraft:stonecutting",
   "group": "mur_templates_conversion",
   "ingredient": {
-      "tag": "mur_conversion:template/rib"
+    "tag": "mur_conversion:template/rib"
   },
-  "result": "minecraft:rib_armor_trim_smithing_template",
-  "count": 1
+  "result": {
+    "id": "minecraft:rib_armor_trim_smithing_template",
+    "count": 1
+  }
 }

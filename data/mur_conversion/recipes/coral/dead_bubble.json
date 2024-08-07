@@ -4,6 +4,8 @@
   "ingredient": {
     "tag": "mur_conversion:coral/dead_bubble"
   },
-  "result": "minecraft:dead_bubble_coral",
-  "count": 1
+  "result": {
+    "id": "minecraft:dead_bubble_coral",
+    "count": 1
+  }
 }
