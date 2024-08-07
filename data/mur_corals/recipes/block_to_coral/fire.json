@@ -4,6 +4,8 @@
   "ingredient": {
     "item": "minecraft:fire_coral_block"
   },
-  "result": "minecraft:fire_coral",
-  "count": 4
+  "result": {
+    "id": "minecraft:fire_coral",
+    "count": 4
+  }
 }

@@ -4,6 +4,8 @@
   "ingredient": {
     "item": "minecraft:dead_brain_coral_block"
   },
-  "result": "minecraft:dead_brain_coral_fan",
-  "count": 4
+  "result": {
+    "id": "minecraft:dead_brain_coral_fan",
+    "count": 4
+  }
 }

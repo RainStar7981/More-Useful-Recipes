@@ -4,6 +4,8 @@
   "ingredient": {
     "item": "minecraft:dead_fire_coral_block"
   },
-  "result": "minecraft:dead_fire_coral_fan",
-  "count": 4
+  "result": {
+    "id": "minecraft:dead_fire_coral_fan",
+    "count": 4
+  }
 }

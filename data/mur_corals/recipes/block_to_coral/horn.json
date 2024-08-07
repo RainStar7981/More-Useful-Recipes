@@ -4,6 +4,8 @@
   "ingredient": {
     "item": "minecraft:horn_coral_block"
   },
-  "result": "minecraft:horn_coral",
-  "count": 4
+  "result": {
+    "id": "minecraft:horn_coral",
+    "count": 4
+  }
 }
