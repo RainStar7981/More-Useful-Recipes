@@ -3,6 +3,8 @@
   "ingredient": {
     "item": "minecraft:nether_wart_block"
   },
-  "result": "minecraft:crimson_fungus",
-  "count": 2
+  "result": {
+    "id": "minecraft:crimson_fungus",
+    "count": 2
+  }
 }

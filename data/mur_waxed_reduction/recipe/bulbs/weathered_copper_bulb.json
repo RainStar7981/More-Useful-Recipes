@@ -4,6 +4,7 @@
   "ingredient": {
     "item": "minecraft:waxed_weathered_copper_bulb"
   },
-  "result": "minecraft:weathered_copper_bulb",
-  "count": 1
+  "result": {
+    "id": "minecraft:weathered_copper_bulb"
+  }
 }

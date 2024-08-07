@@ -3,6 +3,8 @@
   "ingredient": {
     "item": "minecraft:netherite_ingot"
   },
-  "result": "minecraft:netherite_scrap",
-  "count": 4
+  "result": {
+    "id": "minecraft:netherite_scrap",
+    "count": 4
+  }
 }

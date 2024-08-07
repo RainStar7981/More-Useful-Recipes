@@ -3,6 +3,8 @@
   "ingredient": {
     "item": "minecraft:amethyst_block"
   },
-  "result": "minecraft:amethyst_shard",
-  "count": 4
+  "result": {
+    "id": "minecraft:amethyst_shard",
+    "count": 4
+  }
 }

@@ -3,6 +3,8 @@
   "ingredient": {
     "item": "minecraft:clay"
   },
-  "result": "minecraft:clay_ball",
-  "count": 4
+  "result": {
+    "id": "minecraft:clay_ball",
+    "count": 4
+  }
 }

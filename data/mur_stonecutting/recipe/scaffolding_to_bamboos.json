@@ -1,8 +1,9 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": {
-      "item": "minecraft:scaffolding"
+    "item": "minecraft:scaffolding"
   },
-  "result": "minecraft:bamboo",
-  "count": 1
+  "result": {
+    "id": "minecraft:bamboo"
+  }
 }

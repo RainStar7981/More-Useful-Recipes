@@ -3,6 +3,7 @@
   "ingredient": {
     "item": "minecraft:red_mushroom_block"
   },
-  "result": "minecraft:red_mushroom",
-  "count": 1
+  "result": {
+    "id": "minecraft:red_mushroom"
+  }
 }

@@ -4,6 +4,7 @@
   "ingredient": {
     "item": "minecraft:waxed_chiseled_copper"
   },
-  "result": "minecraft:chiseled_copper",
-  "count": 1
+  "result": {
+    "id": "minecraft:chiseled_copper"
+  }
 }

@@ -3,6 +3,8 @@
   "ingredient": {
     "item": "minecraft:warped_wart_block"
   },
-  "result": "minecraft:warped_fungus",
-  "count": 2
+  "result": {
+    "id": "minecraft:warped_fungus",
+    "count": 2
+  }
 }

@@ -3,6 +3,8 @@
   "ingredient": {
     "item": "minecraft:blue_ice"
   },
-  "result": "minecraft:pcked_ice",
-  "count": 9
+  "result": {
+    "id": "minecraft:pcked_ice",
+    "count": 9
+  }
 }

@@ -4,6 +4,7 @@
   "ingredient": {
     "item": "minecraft:lime_glazed_terracotta"
   },
-  "result": "minecraft:lime_terracotta",
-  "count": 1
+  "result": {
+    "id": "minecraft:lime_terracotta"
+  }
 }

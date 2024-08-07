@@ -4,6 +4,7 @@
   "ingredient": {
     "item": "minecraft:waxed_cut_copper_slab"
   },
-  "result": "minecraft:cut_copper_slab",
-  "count": 1
+  "result": {
+    "id": "minecraft:cut_copper_slab"
+  }
 }

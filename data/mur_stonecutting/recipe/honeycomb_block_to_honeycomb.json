@@ -3,6 +3,8 @@
   "ingredient": {
     "item": "minecraft:honeycomb_block"
   },
-  "result": "minecraft:honeycomb",
-  "count": 4
+  "result": {
+    "id": "minecraft:honeycomb",
+    "count": 4
+  }
 }

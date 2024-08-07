@@ -3,6 +3,8 @@
   "ingredient": {
     "tag": "mur_stonecutting:prismarine_shard9"
   },
-  "result": "minecraft:prismarine_shard",
-  "count": 9
+  "result": {
+    "id": "minecraft:prismarine_shard",
+    "count": 9
+  }
 }

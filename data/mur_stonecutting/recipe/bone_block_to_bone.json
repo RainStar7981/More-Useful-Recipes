@@ -3,6 +3,8 @@
   "ingredient": {
     "item": "minecraft:bone_block"
   },
-  "result": "minecraft:bone",
-  "count": 3
+  "result": {
+    "id": "minecraft:bone",
+    "count": 3
+  }
 }
