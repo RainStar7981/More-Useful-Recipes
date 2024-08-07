@@ -3,6 +3,8 @@
   "ingredient": {
     "item": "minecraft:bucket"
   },
-  "result": "minecraft:iron_ingot",
-  "count": 3
+  "result": {
+    "id": "minecraft:iron_ingot",
+    "count": 3
+  }
 }

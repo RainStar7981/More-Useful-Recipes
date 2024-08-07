@@ -3,6 +3,8 @@
   "ingredient": {
     "item": "minecraft:lightning_rod"
   },
-  "result": "minecraft:copper_ingot",
-  "count": 3
+  "result": {
+    "id": "minecraft:copper_ingot",
+    "count": 3
+  }
 }

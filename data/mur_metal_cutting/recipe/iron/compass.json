@@ -3,6 +3,8 @@
   "ingredient": {
     "item": "minecraft:compass"
   },
-  "result": "minecraft:iron_ingot",
-  "count": 4
+  "result": {
+    "id": "minecraft:iron_ingot",
+    "count": 4
+  }
 }

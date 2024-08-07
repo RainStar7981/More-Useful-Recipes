@@ -4,6 +4,7 @@
   "ingredient": {
     "item": "minecraft:red_nether_brick_slab"
   },
-  "result": "minecraft:nether_brick_slab",
-  "count": 1
+  "result": {
+    "id": "minecraft:nether_brick_slab"
+  }
 }

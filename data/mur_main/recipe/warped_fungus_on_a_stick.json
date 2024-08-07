@@ -7,17 +7,17 @@
     "#AX"
   ],
   "key": {
-    "#":{
+    "#": {
       "item": "minecraft:stick"
     },
-    "X":{
+    "X": {
       "item": "minecraft:string"
     },
-    "A":{
+    "A": {
       "item": "minecraft:warped_fungus"
     }
   },
   "result": {
-      "item": "minecraft:warped_fungus_on_a_stick"
+    "id": "minecraft:warped_fungus_on_a_stick"
   }
 }

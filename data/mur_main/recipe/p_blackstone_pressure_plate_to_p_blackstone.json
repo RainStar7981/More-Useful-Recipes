@@ -3,6 +3,8 @@
   "ingredient": {
     "item": "minecraft:polished_blackstone_pressure_plate"
   },
-  "result": "minecraft:polished_blackstone",
-  "count": 2
+  "result": {
+    "id": "minecraft:polished_blackstone",
+    "count": 2
+  }
 }

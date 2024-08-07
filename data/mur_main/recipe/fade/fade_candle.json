@@ -3,6 +3,7 @@
   "ingredient": {
     "tag": "mur_main:candle"
   },
-  "result": "minecraft:candle",
-  "count": 1
+  "result": {
+    "id": "minecraft:candle"
+  }
 }

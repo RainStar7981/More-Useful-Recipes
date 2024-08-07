@@ -3,6 +3,7 @@
   "ingredient": {
     "tag": "mur_main:terracotta"
   },
-  "result": "minecraft:terracotta",
-  "count": 1
+  "result": {
+    "id": "minecraft:terracotta"
+  }
 }

@@ -3,6 +3,8 @@
   "ingredient": {
     "item": "minecraft:iron_door"
   },
-  "result": "minecraft:iron_ingot",
-  "count": 2
+  "result": {
+    "id": "minecraft:iron_ingot",
+    "count": 2
+  }
 }

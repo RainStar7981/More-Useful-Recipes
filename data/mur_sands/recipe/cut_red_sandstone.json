@@ -5,6 +5,6 @@
     { "tag": "mur_sands:sand_red" }
   ],
   "result": {
-    "item": "minecraft:cut_red_sandstone"
+    "id": "minecraft:cut_red_sandstone"
   }
 }

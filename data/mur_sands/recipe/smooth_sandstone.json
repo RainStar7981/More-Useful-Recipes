@@ -5,6 +5,6 @@
     { "tag": "mur_main:aaa_white" }
   ],
   "result": {
-    "item": "minecraft:smooth_sandstone"
+    "id": "minecraft:smooth_sandstone"
   }
 }

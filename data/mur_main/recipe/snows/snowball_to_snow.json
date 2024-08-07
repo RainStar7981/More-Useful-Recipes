@@ -5,7 +5,6 @@
     { "item": "minecraft:snowball" }
   ],
   "result": {
-    "count": 1,
-    "item": "minecraft:snow"
+    "id": "minecraft:snow"
   }
 }

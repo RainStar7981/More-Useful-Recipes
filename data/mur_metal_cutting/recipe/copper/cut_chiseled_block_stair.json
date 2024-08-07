@@ -3,6 +3,8 @@
   "ingredient": {
     "tag": "mur_metal_cutting:copper/cut_chiseled_block_stair"
   },
-  "result": "minecraft:copper_ingot",
-  "count": 2
+  "result": {
+    "id": "minecraft:copper_ingot",
+    "count": 2
+  }
 }

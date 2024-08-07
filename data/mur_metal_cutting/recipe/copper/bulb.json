@@ -3,6 +3,8 @@
   "ingredient": {
     "tag": "mur_metal_cutting:copper/bulb"
   },
-  "result": "minecraft:copper_ingot",
-  "count": 6
+  "result": {
+    "id": "minecraft:copper_ingot",
+    "count": 6
+  }
 }

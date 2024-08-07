@@ -3,6 +3,8 @@
   "ingredient": {
     "item": "minecraft:cauldron"
   },
-  "result": "minecraft:iron_ingot",
-  "count": 7
+  "result": {
+    "id": "minecraft:iron_ingot",
+    "count": 7
+  }
 }

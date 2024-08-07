@@ -5,6 +5,6 @@
     { "item": "minecraft:red_dye" }
   ],
   "result": {
-    "item": "minecraft:crimson_fungus"
+    "id": "minecraft:crimson_fungus"
   }
 }

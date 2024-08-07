@@ -3,6 +3,8 @@
   "ingredient": {
     "item": "minecraft:chain"
   },
-  "result": "minecraft:iron_nugget",
-  "count": 11
+  "result": {
+    "id": "minecraft:iron_nugget",
+    "count": 11
+  }
 }

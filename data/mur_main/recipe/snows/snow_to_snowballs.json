@@ -1,8 +1,10 @@
 {
   "type": "minecraft:stonecutting",
   "ingredient": {
-      "item": "minecraft:snow"
+    "item": "minecraft:snow"
   },
-  "result": "minecraft:snowball",
-  "count": 2
+  "result": {
+    "id": "minecraft:snowball",
+    "count": 2
+  }
 }
