@@ -3,15 +3,9 @@
   "group": "mur_cheap_template",
   "category": "misc",
   "key": {
-    "C": {
-      "item": "minecraft:terracotta"
-    },
-    "S": {
-      "item": "minecraft:shaper_armor_trim_smithing_template"
-    },
-    "A": {
-      "item": "minecraft:diamond"
-    }
+    "C": "minecraft:terracotta",
+    "S": "minecraft:shaper_armor_trim_smithing_template",
+    "A": "minecraft:diamond"
   },
   "pattern": [
     "CSC",

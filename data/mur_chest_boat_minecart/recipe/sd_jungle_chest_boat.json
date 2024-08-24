@@ -3,16 +3,11 @@
   "group": "mur_chest_boat",
   "pattern": [
     "ABA",
-    "AAA",
-    "   "
+    "AAA"
   ],
   "key": {
-    "A": {
-      "item": "minecraft:jungle_planks"
-    },
-    "B": {
-      "item": "minecraft:chest"
-    }
+    "A": "minecraft:jungle_planks",
+    "B": "minecraft:chest"
   },
   "result": {
     "id": "minecraft:jungle_chest_boat"

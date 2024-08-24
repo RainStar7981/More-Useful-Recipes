@@ -3,16 +3,11 @@
   "group": "mur_chest_boat",
   "pattern": [
     "ABA",
-    "AAA",
-    "   "
+    "AAA"
   ],
   "key": {
-    "A": {
-      "item": "minecraft:spruce_planks"
-    },
-    "B": {
-      "item": "minecraft:chest"
-    }
+    "A": "minecraft:spruce_planks",
+    "B": "minecraft:chest"
   },
   "result": {
     "id": "minecraft:spruce_chest_boat"

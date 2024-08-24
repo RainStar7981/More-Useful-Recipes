@@ -3,15 +3,9 @@
   "group": "mur_cheap_template",
   "category": "misc",
   "key": {
-    "C": {
-      "item": "minecraft:prismarine"
-    },
-    "S": {
-      "item": "minecraft:tide_armor_trim_smithing_template"
-    },
-    "A": {
-      "item": "minecraft:diamond"
-    }
+    "C": "minecraft:prismarine",
+    "S": "minecraft:tide_armor_trim_smithing_template",
+    "A": "minecraft:diamond"
   },
   "pattern": [
     "CSC",

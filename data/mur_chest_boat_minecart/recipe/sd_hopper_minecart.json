@@ -2,17 +2,12 @@
   "type": "minecraft:crafting_shaped",
   "group": "mur_minecart",
   "pattern": [
-    "   ",
     "ABA",
     "AAA"
   ],
   "key": {
-    "A": {
-      "item": "minecraft:iron_ingot"
-    },
-    "B": {
-      "item": "minecraft:hopper"
-    }
+    "A": "minecraft:iron_ingot",
+    "B": "minecraft:hopper"
   },
   "result": {
     "id": "minecraft:hopper_minecart"
