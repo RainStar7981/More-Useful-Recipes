@@ -2,8 +2,8 @@
   "type": "minecraft:crafting_shapeless",
   "group": "mur_moss_carpets",
   "ingredients": [
-    { "item": "minecraft:moss_carpet" },
-    { "item": "minecraft:light_gray_dye" }
+    "minecraft:moss_carpet",
+    "minecraft:light_gray_dye"
   ],
   "result": {
     "id": "minecraft:light_gray_carpet"

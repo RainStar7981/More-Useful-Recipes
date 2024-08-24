@@ -2,9 +2,9 @@
   "type": "minecraft:crafting_shapeless",
   "group": "mur_carpet_to_wool",
   "ingredients": [
-    { "item": "minecraft:white_carpet" },
-    { "item": "minecraft:white_carpet" },
-    { "item": "minecraft:white_carpet" }
+    "minecraft:white_carpet",
+    "minecraft:white_carpet",
+    "minecraft:white_carpet"
   ],
   "result": {
     "count": 2,

@@ -2,8 +2,8 @@
   "type": "minecraft:crafting_shapeless",
   "group": "mur_moss_carpets",
   "ingredients": [
-    { "item": "minecraft:moss_carpet" },
-    { "tag": "mur_main:aaa_white" }
+    "minecraft:moss_carpet",
+    "mur_main:aaa_white"
   ],
   "result": {
     "id": "minecraft:white_carpet"
