@@ -3,7 +3,7 @@
   "group": "mur_moss_carpets",
   "ingredients": [
     "minecraft:moss_carpet",
-    "mur_main:aaa_black"
+    "#mur_main:aaa_black"
   ],
   "result": {
     "id": "minecraft:black_carpet"
