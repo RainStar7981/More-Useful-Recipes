@@ -15,7 +15,7 @@ jobs:
       
     - name: Zip files
       run: |
-        zip -r artifact.zip path/to/directory -x "*.git*"
+        zip -r artifact.zip data -x "*.git*"
 
     - name: Upload artifact
       uses: actions/upload-artifact@v3
