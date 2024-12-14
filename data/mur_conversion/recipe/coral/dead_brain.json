@@ -1,9 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "group": "mur_coral_conversion",
-  "ingredient": {
-    "tag": "mur_conversion:coral/dead_brain"
-  },
+  "ingredient": "#mur_conversion:coral/dead_brain",
   "result": {
     "id": "minecraft:dead_brain_coral",
     "count": 1
