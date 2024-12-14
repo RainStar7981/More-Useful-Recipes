@@ -2,9 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "group": "mur_coral_block_crafting",
   "key": {
-    "#": {
-      "tag": "mur_corals:block_crafting/dead_tube"
-    }
+    "#": "#mur_corals:block_crafting/dead_tube"
   },
   "pattern": [
     "##",
