@@ -1,9 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "group": "mur_copper_things_conversion",
-  "ingredient": {
-    "tag": "mur_conversion:copper_things/blocks/oxidized_copper"
-  },
+  "ingredient": "#mur_conversion:copper_things/blocks/oxidized_copper",
   "result": {
     "id": "minecraft:oxidized_copper",
     "count": 1

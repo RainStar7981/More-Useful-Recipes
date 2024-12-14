@@ -1,9 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "group": "mur_copper_things_conversion",
-  "ingredient": {
-    "tag": "mur_conversion:copper_things/grates/oxidized_copper_grate"
-  },
+  "ingredient": "#mur_conversion:copper_things/grates/oxidized_copper_grate",
   "result": {
     "id": "minecraft:oxidized_copper_grate",
     "count": 1

@@ -1,9 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "group": "mur_copper_things_conversion",
-  "ingredient": {
-    "tag": "mur_conversion:copper_things/doors/oxidized_copper_door"
-  },
+  "ingredient": "#mur_conversion:copper_things/doors/oxidized_copper_door",
   "result": {
     "id": "minecraft:oxidized_copper_door",
     "count": 1

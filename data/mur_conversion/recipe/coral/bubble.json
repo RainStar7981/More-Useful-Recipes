@@ -1,9 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "group": "mur_coral_conversion",
-  "ingredient": {
-    "tag": "mur_conversion:coral/bubble"
-  },
+  "ingredient": "#mur_conversion:coral/bubble",
   "result": {
     "id": "minecraft:bubble_coral",
     "count": 1

@@ -1,9 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "group": "mur_copper_things_conversion",
-  "ingredient": {
-    "tag": "mur_conversion:copper_things/stairs/cut_copper_stairs"
-  },
+  "ingredient": "#mur_conversion:copper_things/stairs/cut_copper_stairs",
   "result": {
     "id": "minecraft:cut_copper_stairs",
     "count": 1

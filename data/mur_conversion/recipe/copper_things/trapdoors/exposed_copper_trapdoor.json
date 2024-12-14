@@ -1,9 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "group": "mur_copper_things_conversion",
-  "ingredient": {
-    "tag": "mur_conversion:copper_things/trapdoors/exposed_copper_trapdoor"
-  },
+  "ingredient": "#mur_conversion:copper_things/trapdoors/exposed_copper_trapdoor",
   "result": {
     "id": "minecraft:exposed_copper_trapdoor",
     "count": 1

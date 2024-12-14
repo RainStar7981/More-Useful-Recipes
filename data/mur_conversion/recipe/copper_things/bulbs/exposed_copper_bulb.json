@@ -1,9 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "group": "mur_copper_things_conversion",
-  "ingredient": {
-    "tag": "mur_conversion:copper_things/bulbs/exposed_copper_bulb"
-  },
+  "ingredient": "#mur_conversion:copper_things/bulbs/exposed_copper_bulb",
   "result": {
     "id": "minecraft:exposed_copper_bulb",
     "count": 1
