@@ -20,5 +20,5 @@ jobs:
     - name: Upload artifact
       uses: actions/upload-artifact@v4
       with:
-        name: More-Useful-Recipes-dev.zip
+        name: More-Useful-Recipes-dev
         path: artifact.zip
