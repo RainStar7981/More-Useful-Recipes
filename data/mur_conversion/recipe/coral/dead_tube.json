@@ -1,9 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "group": "mur_coral_conversion",
-  "ingredient": {
-    "tag": "mur_conversion:coral/dead_tube"
-  },
+  "ingredient": "#mur_conversion:coral/dead_tube",
   "result": {
     "id": "minecraft:dead_tube_coral",
     "count": 1

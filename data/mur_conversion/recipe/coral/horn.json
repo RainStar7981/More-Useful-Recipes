@@ -1,9 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "group": "mur_coral_conversion",
-  "ingredient": {
-    "tag": "mur_conversion:coral/horn"
-  },
+  "ingredient": "#mur_conversion:coral/horn",
   "result": {
     "id": "minecraft:horn_coral",
     "count": 1

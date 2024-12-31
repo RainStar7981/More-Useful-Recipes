@@ -1,9 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "group": "mur_conversion_froglight",
-  "ingredient": {
-    "tag": "mur_conversion:froglight/pearlescent_froglight"
-  },
+  "ingredient": "#mur_conversion:froglight/pearlescent_froglight",
   "result": {
     "id": "minecraft:pearlescent_froglight",
     "count": 1

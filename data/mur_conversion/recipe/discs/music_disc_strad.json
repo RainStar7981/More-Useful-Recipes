@@ -1,9 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "group": "mur_discs",
-  "ingredient": {
-    "tag": "mur_conversion:discs/music_disc_strad"
-  },
+  "ingredient": "#mur_conversion:discs/music_disc_strad",
   "result": {
     "id": "minecraft:music_disc_strad",
     "count": 1

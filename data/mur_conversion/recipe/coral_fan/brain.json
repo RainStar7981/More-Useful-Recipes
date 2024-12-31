@@ -1,9 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "group": "mur_coral_fan_conversion",
-  "ingredient": {
-    "tag": "mur_conversion:coral_fan/brain"
-  },
+  "ingredient": "#mur_conversion:coral_fan/brain",
   "result": {
     "id": "minecraft:brain_coral_fan",
     "count": 1
