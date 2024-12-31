@@ -1,8 +1,6 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:spyglass"
-  },
+  "ingredient": "minecraft:spyglass",
   "result": {
     "id": "minecraft:copper_ingot",
     "count": 2

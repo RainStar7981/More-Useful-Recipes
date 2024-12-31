@@ -1,8 +1,6 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:bucket"
-  },
+  "ingredient": "minecraft:bucket",
   "result": {
     "id": "minecraft:iron_ingot",
     "count": 3

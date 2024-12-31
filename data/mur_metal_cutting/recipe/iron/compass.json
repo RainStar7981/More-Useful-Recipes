@@ -1,8 +1,6 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:compass"
-  },
+  "ingredient": "minecraft:compass",
   "result": {
     "id": "minecraft:iron_ingot",
     "count": 4

@@ -1,8 +1,6 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:iron_bars"
-  },
+  "ingredient": "minecraft:iron_bars",
   "result": {
     "id": "minecraft:iron_nugget",
     "count": 4

@@ -5,9 +5,7 @@
     "AA"
   ],
   "key": {
-    "A": {
-      "item": "minecraft:wind_charge"
-    }
+    "A": "minecraft:wind_charge"
   },
   "result": {
     "id": "minecraft:breeze_rod"

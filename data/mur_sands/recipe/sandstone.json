@@ -1,8 +1,8 @@
 {
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
-    { "item": "minecraft:red_sandstone" },
-    { "tag": "mur_main:aaa_white" }
+    "minecraft:red_sandstone",
+    "#mur_main:aaa_white"
   ],
   "result": {
     "id": "minecraft:sandstone"

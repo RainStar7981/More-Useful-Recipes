@@ -1,8 +1,6 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:lightning_rod"
-  },
+  "ingredient": "minecraft:lightning_rod",
   "result": {
     "id": "minecraft:copper_ingot",
     "count": 3

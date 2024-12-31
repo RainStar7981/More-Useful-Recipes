@@ -1,8 +1,6 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:golden_apple"
-  },
+  "ingredient": "minecraft:golden_apple",
   "result": {
     "id": "minecraft:gold_ingot",
     "count": 8

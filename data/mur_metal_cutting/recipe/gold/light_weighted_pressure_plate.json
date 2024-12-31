@@ -1,8 +1,6 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:light_weighted_pressure_plate"
-  },
+  "ingredient": "minecraft:light_weighted_pressure_plate",
   "result": {
     "id": "minecraft:gold_ingot",
     "count": 2
