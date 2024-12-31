@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shapeless",
   "group": "sd_banner",
   "ingredients": [
-    {
-      "tag": "mur_main:aaa_black"
-    },
-    {
-      "tag": "mur_sd:black_banner"
-    }
+    "#mur_main:aaa_black",
+    "#mur_sd:black_banner"
   ],
   "result": {
     "id": "minecraft:black_banner"

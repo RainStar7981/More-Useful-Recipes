@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shapeless",
   "group": "sd_candle",
   "ingredients": [
-    {
-      "tag": "mur_main:aaa_black"
-    },
-    {
-      "tag": "mur_sd:black_candle"
-    }
+    "#mur_main:aaa_black",
+    "#mur_sd:black_candle"
   ],
   "result": {
     "id": "minecraft:black_candle"
