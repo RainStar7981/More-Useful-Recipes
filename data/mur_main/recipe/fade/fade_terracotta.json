@@ -1,8 +1,6 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {
-    "tag": "mur_main:terracotta"
-  },
+  "ingredient": "#mur_main:terracotta",
   "result": {
     "id": "minecraft:terracotta"
   }

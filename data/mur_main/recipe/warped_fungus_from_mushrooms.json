@@ -1,12 +1,8 @@
 {
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
-    {
-      "tag": "mur_main:mushrooms"
-    },
-    {
-      "tag": "mur_main:aaa_blue"
-    }
+    "#mur_main:mushrooms",
+    "#mur_main:aaa_blue"
   ],
   "result": {
     "id": "minecraft:warped_fungus"

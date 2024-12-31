@@ -2,9 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "#": {
-      "tag": "mur_main:glass"
-    }
+    "#": "#mur_main:glass"
   },
   "pattern": [
     "# #",

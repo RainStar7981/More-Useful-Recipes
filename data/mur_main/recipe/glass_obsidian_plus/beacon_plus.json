@@ -2,15 +2,9 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "G": {
-      "tag": "mur_main:glass2"
-    },
-    "O": {
-      "tag": "mur_main:obsidians"
-    },
-    "S": {
-      "item": "minecraft:nether_star"
-    }
+    "G": "#mur_main:glass2",
+    "O": "#mur_main:obsidians",
+    "S": "minecraft:nether_star"
   },
   "pattern": [
     "GGG",

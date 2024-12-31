@@ -1,9 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "group": "mur_block_to_coral_fan",
-  "ingredient": {
-    "item": "minecraft:bubble_coral_block"
-  },
+  "ingredient": "minecraft:bubble_coral_block",
   "result": {
     "id": "minecraft:bubble_coral_fan",
     "count": 4

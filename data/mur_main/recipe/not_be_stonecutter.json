@@ -6,12 +6,8 @@
     "AAA"
   ],
   "key": {
-    "A": {
-      "tag": "mur_main:rock_for_stonecutter"
-    },
-    "B": {
-      "item": "minecraft:iron_ingot"
-    }
+    "A": "#mur_main:rock_for_stonecutter",
+    "B": "minecraft:iron_ingot"
   },
   "result": {
     "id": "minecraft:stonecutter"

@@ -1,8 +1,8 @@
 {
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
-    { "item": "minecraft:snow" },
-    { "item": "minecraft:snow" }
+    "minecraft:snow",
+    "minecraft:snow"
   ],
   "result": {
     "id": "minecraft:snow_block"

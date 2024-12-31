@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "#": {
-      "tag": "mur_main:obsidians"
-    },
-    "E": {
-      "item": "minecraft:ender_eye"
-    }
+    "#": "#mur_main:obsidians",
+    "E": "minecraft:ender_eye"
   },
   "pattern": [
     "###",

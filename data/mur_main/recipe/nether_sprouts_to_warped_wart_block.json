@@ -6,9 +6,7 @@
     "AAA"
   ],
   "key": {
-    "A": {
-      "item": "minecraft:nether_sprouts"
-    }
+    "A": "minecraft:nether_sprouts"
   },
   "result": {
     "id": "minecraft:warped_wart_block"

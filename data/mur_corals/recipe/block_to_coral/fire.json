@@ -1,9 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "group": "mur_block_to_coral",
-  "ingredient": {
-    "item": "minecraft:fire_coral_block"
-  },
+  "ingredient": "minecraft:fire_coral_block",
   "result": {
     "id": "minecraft:fire_coral",
     "count": 4

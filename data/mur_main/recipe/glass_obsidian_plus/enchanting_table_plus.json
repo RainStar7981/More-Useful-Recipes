@@ -2,15 +2,9 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "#": {
-      "tag": "mur_main:obsidians"
-    },
-    "B": {
-      "item": "minecraft:book"
-    },
-    "D": {
-      "item": "minecraft:diamond"
-    }
+    "#": "#mur_main:obsidians",
+    "B": "minecraft:book",
+    "D": "minecraft:diamond"
   },
   "pattern": [
     " B ",

@@ -6,12 +6,8 @@
     "B B"
   ],
   "key": {
-    "A": {
-      "item": "minecraft:leather"
-    },
-    "B": {
-      "item": "minecraft:string"
-    }
+    "A": "minecraft:leather",
+    "B": "minecraft:string"
   },
   "result": {
     "id": "minecraft:saddle"

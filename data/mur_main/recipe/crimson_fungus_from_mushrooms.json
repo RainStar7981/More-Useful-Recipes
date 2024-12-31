@@ -1,8 +1,8 @@
 {
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
-    { "tag": "mur_main:mushrooms" },
-    { "item": "minecraft:red_dye" }
+    "#mur_main:mushrooms",
+    "minecraft:red_dye"
   ],
   "result": {
     "id": "minecraft:crimson_fungus"

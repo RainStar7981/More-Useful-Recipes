@@ -1,8 +1,8 @@
 {
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
-    { "item": "minecraft:snowball" },
-    { "item": "minecraft:snowball" }
+    "minecraft:snowball",
+    "minecraft:snowball"
   ],
   "result": {
     "id": "minecraft:snow"
