@@ -1,9 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "group": "mur_templates_conversion",
-  "ingredient": {
-    "tag": "mur_conversion:template/ward"
-  },
+  "ingredient": "#mur_conversion:template/ward",
   "result": {
     "id": "minecraft:ward_armor_trim_smithing_template",
     "count": 1

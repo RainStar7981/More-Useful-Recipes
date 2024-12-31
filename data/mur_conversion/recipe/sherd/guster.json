@@ -1,9 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "group": "mur_sherd_conversion",
-  "ingredient": {
-    "tag": "mur_conversion:sherd/guster"
-  },
+  "ingredient": "#mur_conversion:sherd/guster",
   "result": {
     "id": "minecraft:guster_pottery_sherd",
     "count": 1

@@ -1,9 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "group": "mur_sherd_conversion",
-  "ingredient": {
-    "tag": "mur_conversion:sherd/blade"
-  },
+  "ingredient": "#mur_conversion:sherd/blade",
   "result": {
     "id": "minecraft:blade_pottery_sherd",
     "count": 1

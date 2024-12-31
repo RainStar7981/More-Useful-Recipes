@@ -1,8 +1,6 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {
-    "tag": "mur_conversion:quartz_blocks/quartz_block"
-  },
+  "ingredient": "#mur_conversion:quartz_blocks/quartz_block",
   "result": {
     "id": "minecraft:quartz_block"
   }

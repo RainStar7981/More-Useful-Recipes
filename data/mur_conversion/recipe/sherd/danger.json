@@ -1,9 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "group": "mur_sherd_conversion",
-  "ingredient": {
-    "tag": "mur_conversion:sherd/danger"
-  },
+  "ingredient": "#mur_conversion:sherd/danger",
   "result": {
     "id": "minecraft:danger_pottery_sherd",
     "count": 1

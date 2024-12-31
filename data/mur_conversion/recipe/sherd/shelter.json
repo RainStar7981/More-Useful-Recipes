@@ -1,9 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "group": "mur_sherd_conversion",
-  "ingredient": {
-    "tag": "mur_conversion:sherd/shelter"
-  },
+  "ingredient": "#mur_conversion:sherd/shelter",
   "result": {
     "id": "minecraft:shelter_pottery_sherd",
     "count": 1

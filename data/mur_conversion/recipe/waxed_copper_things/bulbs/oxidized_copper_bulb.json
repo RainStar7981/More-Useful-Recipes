@@ -1,9 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "group": "mur_copper_things_conversion",
-  "ingredient": {
-    "tag": "mur_conversion:waxed_copper_things/bulbs/oxidized_copper_bulb"
-  },
+  "ingredient": "#mur_conversion:waxed_copper_things/bulbs/oxidized_copper_bulb",
   "result": {
     "id": "minecraft:waxed_oxidized_copper_bulb",
     "count": 1

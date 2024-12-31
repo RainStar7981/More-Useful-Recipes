@@ -1,9 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "group": "mur_sherd_conversion",
-  "ingredient": {
-    "tag": "mur_conversion:sherd/angler"
-  },
+  "ingredient": "#mur_conversion:sherd/angler",
   "result": {
     "id": "minecraft:angler_pottery_sherd",
     "count": 1

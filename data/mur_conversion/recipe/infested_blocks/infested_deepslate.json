@@ -1,9 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "group": "minecraft:infested_blocks_conversion",
-  "ingredient": {
-    "item": "minecraft:infested_deepslate"
-  },
+  "ingredient": "minecraft:infested_deepslate",
   "result": {
     "id": "minecraft:deepslate",
     "count": 1

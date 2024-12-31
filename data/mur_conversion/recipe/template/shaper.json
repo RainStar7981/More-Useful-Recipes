@@ -1,9 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "group": "mur_templates_conversion",
-  "ingredient": {
-    "tag": "mur_conversion:template/shaper"
-  },
+  "ingredient": "#mur_conversion:template/shaper",
   "result": {
     "id": "minecraft:shaper_armor_trim_smithing_template",
     "count": 1
