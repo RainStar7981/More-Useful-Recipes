@@ -7,12 +7,8 @@
     "AAA"
   ],
   "key": {
-    "A": {
-      "tag": "mur_sd:green_stained_glass"
-    },
-    "B": {
-      "item": "minecraft:green_dye"
-    }
+    "A": "#mur_sd:green_stained_glass",
+    "B": "minecraft:green_dye"
   },
   "result": {
     "id": "minecraft:green_stained_glass",

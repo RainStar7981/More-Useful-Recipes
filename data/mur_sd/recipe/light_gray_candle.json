@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shapeless",
   "group": "sd_candle",
   "ingredients": [
-    {
-      "item": "minecraft:light_gray_dye"
-    },
-    {
-      "tag": "mur_sd:light_gray_candle"
-    }
+    "minecraft:light_gray_dye",
+    "#mur_sd:light_gray_candle"
   ],
   "result": {
     "id": "minecraft:light_gray_candle"

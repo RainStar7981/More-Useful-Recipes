@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shapeless",
   "group": "sd_candle",
   "ingredients": [
-    {
-      "item": "minecraft:light_blue_dye"
-    },
-    {
-      "tag": "mur_sd:light_blue_candle"
-    }
+    "minecraft:light_blue_dye",
+    "#mur_sd:light_blue_candle"
   ],
   "result": {
     "id": "minecraft:light_blue_candle"

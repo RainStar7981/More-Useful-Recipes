@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shapeless",
   "group": "sd_banner",
   "ingredients": [
-    {
-      "item": "minecraft:light_blue_dye"
-    },
-    {
-      "tag": "mur_sd:light_blue_banner"
-    }
+    "minecraft:light_blue_dye",
+    "#mur_sd:light_blue_banner"
   ],
   "result": {
     "id": "minecraft:light_blue_banner"

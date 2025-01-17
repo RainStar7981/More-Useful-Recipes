@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shapeless",
   "group": "sd_banner",
   "ingredients": [
-    {
-      "item": "minecraft:gray_dye"
-    },
-    {
-      "tag": "mur_sd:gray_banner"
-    }
+    "minecraft:gray_dye",
+    "#mur_sd:gray_banner"
   ],
   "result": {
     "id": "minecraft:gray_banner"

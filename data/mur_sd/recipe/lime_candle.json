@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shapeless",
   "group": "sd_candle",
   "ingredients": [
-    {
-      "item": "minecraft:lime_dye"
-    },
-    {
-      "tag": "mur_sd:lime_candle"
-    }
+    "minecraft:lime_dye",
+    "#mur_sd:lime_candle"
   ],
   "result": {
     "id": "minecraft:lime_candle"

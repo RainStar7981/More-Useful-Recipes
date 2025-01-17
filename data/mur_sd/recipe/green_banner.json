@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shapeless",
   "group": "sd_banner",
   "ingredients": [
-    {
-      "item": "minecraft:green_dye"
-    },
-    {
-      "tag": "mur_sd:green_banner"
-    }
+    "minecraft:green_dye",
+    "#mur_sd:green_banner"
   ],
   "result": {
     "id": "minecraft:green_banner"

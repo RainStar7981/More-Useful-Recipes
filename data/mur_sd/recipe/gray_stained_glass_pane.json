@@ -7,12 +7,8 @@
     "AAA"
   ],
   "key": {
-    "A": {
-      "tag": "mur_sd:gray_stained_glass_pane"
-    },
-    "B": {
-      "item": "minecraft:gray_dye"
-    }
+    "A": "#mur_sd:gray_stained_glass_pane",
+    "B": "minecraft:gray_dye"
   },
   "result": {
     "id": "minecraft:gray_stained_glass_pane",

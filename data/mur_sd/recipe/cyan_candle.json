@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shapeless",
   "group": "sd_candle",
   "ingredients": [
-    {
-      "item": "minecraft:cyan_dye"
-    },
-    {
-      "tag": "mur_sd:cyan_candle"
-    }
+    "minecraft:cyan_dye",
+    "#mur_sd:cyan_candle"
   ],
   "result": {
     "id": "minecraft:cyan_candle"

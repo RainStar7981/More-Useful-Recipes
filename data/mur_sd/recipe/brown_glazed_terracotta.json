@@ -7,12 +7,8 @@
     "AAA"
   ],
   "key": {
-    "A": {
-      "tag": "mur_sd:brown_glazed_terracotta"
-    },
-    "B": {
-      "tag": "mur_main:aaa_brown"
-    }
+    "A": "#mur_sd:brown_glazed_terracotta",
+    "B": "#mur_main:aaa_brown"
   },
   "result": {
     "id": "minecraft:brown_glazed_terracotta",
