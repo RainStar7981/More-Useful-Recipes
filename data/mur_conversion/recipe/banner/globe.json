@@ -1,8 +1,8 @@
 {
   "type": "minecraft:stonecutting",
-  "group": "mur_copper_things_conversion",
+  "group": "mur_banner_conversion",
   "ingredient": "#mur_conversion:banner/globe",
   "result": {
-    "id": "minecraft:creeper_globe_pattern"
+    "id": "minecraft:globe_banner_pattern"
   }
 }

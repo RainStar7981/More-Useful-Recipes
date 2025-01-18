@@ -1,8 +1,8 @@
 {
   "type": "minecraft:stonecutting",
-  "group": "mur_copper_things_conversion",
+  "group": "mur_banner_conversion",
   "ingredient": "#mur_conversion:banner/guster",
   "result": {
-    "id": "minecraft:creeper_guster_pattern"
+    "id": "minecraft:guster_banner_pattern"
   }
 }

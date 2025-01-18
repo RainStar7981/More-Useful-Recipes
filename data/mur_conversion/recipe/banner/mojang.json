@@ -1,8 +1,8 @@
 {
   "type": "minecraft:stonecutting",
-  "group": "mur_copper_things_conversion",
+  "group": "mur_banner_conversion",
   "ingredient": "#mur_conversion:banner/mojang",
   "result": {
-    "id": "minecraft:creeper_mojang_pattern"
+    "id": "minecraft:mojang_banner_pattern"
   }
 }

@@ -1,8 +1,8 @@
 {
   "type": "minecraft:stonecutting",
-  "group": "mur_copper_things_conversion",
+  "group": "mur_banner_conversion",
   "ingredient": "#mur_conversion:banner/skull",
   "result": {
-    "id": "minecraft:creeper_skull_pattern"
+    "id": "minecraft:skull_banner_pattern"
   }
 }

@@ -1,8 +1,8 @@
 {
   "type": "minecraft:stonecutting",
-  "group": "mur_copper_things_conversion",
+  "group": "mur_banner_conversion",
   "ingredient": "#mur_conversion:banner/flower",
   "result": {
-    "id": "minecraft:creeper_flower_pattern"
+    "id": "minecraft:flower_banner_pattern"
   }
 }

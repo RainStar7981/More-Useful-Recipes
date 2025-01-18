@@ -1,8 +1,8 @@
 {
   "type": "minecraft:stonecutting",
-  "group": "mur_copper_things_conversion",
+  "group": "mur_banner_conversion",
   "ingredient": "#mur_conversion:banner/flow",
   "result": {
-    "id": "minecraft:creeper_flow_pattern"
+    "id": "minecraft:flow_banner_pattern"
   }
 }
