@@ -1,9 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "group": "mur_waxed_reduction",
-  "ingredient": {
-    "item": "minecraft:waxed_weathered_copper_grate"
-  },
+  "ingredient": "minecraft:waxed_weathered_copper_grate",
   "result": {
     "id": "minecraft:weathered_copper_grate"
   }
