@@ -7,12 +7,8 @@
     "AAA"
   ],
   "key": {
-    "A": {
-      "tag": "mur_sd:pink_concrete"
-    },
-    "B": {
-      "item": "minecraft:pink_dye"
-    }
+    "A": "#mur_sd:pink_concrete",
+    "B": "minecraft:pink_dye"
   },
   "result": {
     "id": "minecraft:pink_concrete",

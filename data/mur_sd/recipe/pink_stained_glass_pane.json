@@ -7,12 +7,8 @@
     "AAA"
   ],
   "key": {
-    "A": {
-      "tag": "mur_sd:pink_stained_glass_pane"
-    },
-    "B": {
-      "item": "minecraft:pink_dye"
-    }
+    "A": "#mur_sd:pink_stained_glass_pane",
+    "B": "minecraft:pink_dye"
   },
   "result": {
     "id": "minecraft:pink_stained_glass_pane",

@@ -7,12 +7,8 @@
     "AAA"
   ],
   "key": {
-    "A": {
-      "tag": "mur_sd:orange_concrete_powder"
-    },
-    "B": {
-      "item": "minecraft:orange_dye"
-    }
+    "A": "#mur_sd:orange_concrete_powder",
+    "B": "minecraft:orange_dye"
   },
   "result": {
     "id": "minecraft:orange_concrete_powder",

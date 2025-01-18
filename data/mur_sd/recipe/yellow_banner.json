@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shapeless",
   "group": "sd_banner",
   "ingredients": [
-    {
-      "item": "minecraft:yellow_dye"
-    },
-    {
-      "tag": "mur_sd:yellow_banner"
-    }
+    "minecraft:yellow_dye",
+    "#mur_sd:yellow_banner"
   ],
   "result": {
     "id": "minecraft:yellow_banner"

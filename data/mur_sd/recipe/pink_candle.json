@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shapeless",
   "group": "sd_candle",
   "ingredients": [
-    {
-      "item": "minecraft:pink_dye"
-    },
-    {
-      "tag": "mur_sd:pink_candle"
-    }
+    "minecraft:pink_dye",
+    "#mur_sd:pink_candle"
   ],
   "result": {
     "id": "minecraft:pink_candle"

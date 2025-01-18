@@ -7,12 +7,8 @@
     "AAA"
   ],
   "key": {
-    "A": {
-      "tag": "mur_sd:purple_stained_glass"
-    },
-    "B": {
-      "item": "minecraft:purple_dye"
-    }
+    "A": "#mur_sd:purple_stained_glass",
+    "B": "minecraft:purple_dye"
   },
   "result": {
     "id": "minecraft:purple_stained_glass",

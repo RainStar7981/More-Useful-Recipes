@@ -7,12 +7,8 @@
     "AAA"
   ],
   "key": {
-    "A": {
-      "tag": "mur_sd:red_concrete_powder"
-    },
-    "B": {
-      "item": "minecraft:red_dye"
-    }
+    "A": "#mur_sd:red_concrete_powder",
+    "B": "minecraft:red_dye"
   },
   "result": {
     "id": "minecraft:red_concrete_powder",

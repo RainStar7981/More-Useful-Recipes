@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shapeless",
   "group": "sd_banner",
   "ingredients": [
-    {
-      "item": "minecraft:purple_dye"
-    },
-    {
-      "tag": "mur_sd:purple_banner"
-    }
+    "minecraft:purple_dye",
+    "#mur_sd:purple_banner"
   ],
   "result": {
     "id": "minecraft:purple_banner"

@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shapeless",
   "group": "sd_banner",
   "ingredients": [
-    {
-      "item": "minecraft:red_dye"
-    },
-    {
-      "tag": "mur_sd:red_banner"
-    }
+    "minecraft:red_dye",
+    "#mur_sd:red_banner"
   ],
   "result": {
     "id": "minecraft:red_banner"

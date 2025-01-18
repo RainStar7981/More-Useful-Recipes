@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shapeless",
   "group": "sd_banner",
   "ingredients": [
-    {
-      "item": "minecraft:pink_dye"
-    },
-    {
-      "tag": "mur_sd:pink_banner"
-    }
+    "minecraft:pink_dye",
+    "#mur_sd:pink_banner"
   ],
   "result": {
     "id": "minecraft:pink_banner"

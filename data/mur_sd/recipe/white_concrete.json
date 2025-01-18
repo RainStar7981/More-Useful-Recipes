@@ -7,12 +7,8 @@
     "AAA"
   ],
   "key": {
-    "A": {
-      "tag": "mur_sd:white_concrete"
-    },
-    "B": {
-      "tag": "mur_main:aaa_white"
-    }
+    "A": "#mur_sd:white_concrete",
+    "B": "#mur_main:aaa_white"
   },
   "result": {
     "id": "minecraft:white_concrete",
