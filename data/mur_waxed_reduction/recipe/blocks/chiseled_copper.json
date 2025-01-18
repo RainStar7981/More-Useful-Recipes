@@ -1,9 +1,7 @@
 {
   "type": "minecraft:stonecutting",
   "group": "mur_waxed_reduction",
-  "ingredient": {
-    "item": "minecraft:waxed_chiseled_copper"
-  },
+  "ingredient": "minecraft:waxed_chiseled_copper",
   "result": {
     "id": "minecraft:chiseled_copper"
   }

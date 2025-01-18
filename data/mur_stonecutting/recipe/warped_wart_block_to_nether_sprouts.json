@@ -1,8 +1,6 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:warped_wart_block"
-  },
+  "ingredient": "minecraft:warped_wart_block",
   "result": {
     "id": "minecraft:nether_sprouts",
     "count": 9

@@ -4,7 +4,5 @@
   "ingredient": {
     "item": "minecraft:waxed_oxidized_copper_bulb"
   },
-  "result": {
-    "id": "minecraft:oxidized_copper_bulb"
-  }
+  "result": "minecraft:oxidized_copper_bulb"
 }
