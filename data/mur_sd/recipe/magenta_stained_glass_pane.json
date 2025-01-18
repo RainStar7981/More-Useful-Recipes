@@ -7,12 +7,8 @@
     "AAA"
   ],
   "key": {
-    "A": {
-      "tag": "mur_sd:magenta_stained_glass_pane"
-    },
-    "B": {
-      "item": "minecraft:magenta_dye"
-    }
+    "A": "#mur_sd:magenta_stained_glass_pane",
+    "B": "minecraft:magenta_dye"
   },
   "result": {
     "id": "minecraft:magenta_stained_glass_pane",
