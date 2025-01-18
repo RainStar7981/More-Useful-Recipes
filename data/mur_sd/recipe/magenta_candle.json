@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shapeless",
   "group": "sd_candle",
   "ingredients": [
-    {
-      "item": "minecraft:magenta_dye"
-    },
-    {
-      "tag": "mur_sd:magenta_candle"
-    }
+    "minecraft:magenta_dye",
+    "#mur_sd:magenta_candle"
   ],
   "result": {
     "id": "minecraft:magenta_candle"

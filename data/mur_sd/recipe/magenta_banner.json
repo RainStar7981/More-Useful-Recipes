@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shapeless",
   "group": "sd_banner",
   "ingredients": [
-    {
-      "item": "minecraft:magenta_dye"
-    },
-    {
-      "tag": "mur_sd:magenta_banner"
-    }
+    "minecraft:magenta_dye",
+    "#mur_sd:magenta_banner"
   ],
   "result": {
     "id": "minecraft:magenta_banner"

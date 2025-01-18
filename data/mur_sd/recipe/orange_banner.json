@@ -2,12 +2,8 @@
   "type": "minecraft:crafting_shapeless",
   "group": "sd_banner",
   "ingredients": [
-    {
-      "item": "minecraft:orange_dye"
-    },
-    {
-      "tag": "mur_sd:orange_banner"
-    }
+    "minecraft:orange_dye",
+    "#mur_sd:orange_banner"
   ],
   "result": {
     "id": "minecraft:orange_banner"
