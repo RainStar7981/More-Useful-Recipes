@@ -1,8 +1,8 @@
 {
   "type": "minecraft:stonecutting",
   "group": "mur_waxed_reduction",
-  "ingredient": {
-    "item": "minecraft:waxed_weathered_copper_bulb"
-  },
-  "result": "minecraft:weathered_copper_bulb"
+  "ingredient": "minecraft:waxed_weathered_copper_bulb",
+  "result": {
+    "id": "minecraft:weathered_copper_bulb"
+  }
 }
