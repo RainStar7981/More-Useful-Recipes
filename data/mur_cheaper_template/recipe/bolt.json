@@ -3,12 +3,8 @@
   "group": "mur_cheap_template",
   "category": "misc",
   "key": {
-    "C": {
-      "tag": "mur_cheaper_template:bolt_coppers"
-    },
-    "S": {
-      "item": "minecraft:bolt_armor_trim_smithing_template"
-    }
+    "C": "#mur_cheaper_template:bolt_coppers",
+    "S": "minecraft:bolt_armor_trim_smithing_template"
   },
   "pattern": [
     "CSC",

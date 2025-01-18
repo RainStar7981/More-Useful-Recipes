@@ -3,12 +3,8 @@
   "group": "mur_cheap_template",
   "category": "misc",
   "key": {
-    "C": {
-      "item": "minecraft:mossy_cobblestone"
-    },
-    "S": {
-      "item": "minecraft:wild_armor_trim_smithing_template"
-    }
+    "C": "minecraft:mossy_cobblestone",
+    "S": "minecraft:wild_armor_trim_smithing_template"
   },
   "pattern": [
     "CSC",

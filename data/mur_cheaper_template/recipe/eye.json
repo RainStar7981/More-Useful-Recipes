@@ -3,12 +3,8 @@
   "group": "mur_cheap_template",
   "category": "misc",
   "key": {
-    "C": {
-      "item": "minecraft:end_stone"
-    },
-    "S": {
-      "item": "minecraft:eye_armor_trim_smithing_template"
-    }
+    "C": "minecraft:end_stone",
+    "S": "minecraft:eye_armor_trim_smithing_template"
   },
   "pattern": [
     "CSC",

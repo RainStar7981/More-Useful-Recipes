@@ -3,12 +3,8 @@
   "group": "mur_cheap_template",
   "category": "misc",
   "key": {
-    "C": {
-      "item": "minecraft:cobblestone"
-    },
-    "S": {
-      "item": "minecraft:vex_armor_trim_smithing_template"
-    }
+    "C": "minecraft:cobblestone",
+    "S": "minecraft:vex_armor_trim_smithing_template"
   },
   "pattern": [
     "CSC",

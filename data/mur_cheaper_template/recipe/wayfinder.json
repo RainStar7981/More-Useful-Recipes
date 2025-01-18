@@ -3,12 +3,8 @@
   "group": "mur_cheap_template",
   "category": "misc",
   "key": {
-    "C": {
-      "item": "minecraft:terracotta"
-    },
-    "S": {
-      "item": "minecraft:wayfinder_armor_trim_smithing_template"
-    }
+    "C": "minecraft:terracotta",
+    "S": "minecraft:wayfinder_armor_trim_smithing_template"
   },
   "pattern": [
     "CSC",

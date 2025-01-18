@@ -3,12 +3,8 @@
   "group": "mur_cheap_template",
   "category": "misc",
   "key": {
-    "C": {
-      "item": "minecraft:purpur_block"
-    },
-    "S": {
-      "item": "minecraft:spire_armor_trim_smithing_template"
-    }
+    "C": "minecraft:purpur_block",
+    "S": "minecraft:spire_armor_trim_smithing_template"
   },
   "pattern": [
     "CSC",

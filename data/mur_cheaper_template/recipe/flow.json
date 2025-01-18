@@ -3,12 +3,8 @@
   "group": "mur_cheap_template",
   "category": "misc",
   "key": {
-    "C": {
-      "item": "minecraft:breeze_rod"
-    },
-    "S": {
-      "item": "minecraft:flow_armor_trim_smithing_template"
-    }
+    "C": "minecraft:breeze_rod",
+    "S": "minecraft:flow_armor_trim_smithing_template"
   },
   "pattern": [
     "CSC",
