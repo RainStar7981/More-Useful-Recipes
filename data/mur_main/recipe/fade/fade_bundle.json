@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "#mur_main:bundle",
+  "result": {
+    "id": "minecraft:bundle"
+  }
+}
