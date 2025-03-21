@@ -1,6 +1,9 @@
 {
-  "type": "minecraft:stonecutting",
-  "ingredient": "#mur_main:bundle",
+  "type": "minecraft:crafting_transmute",
+  "category": "equipment",
+  "group": "bundle_dye",
+  "input": "#minecraft:bundles",
+  "material": "minecraft:paper",
   "result": {
     "id": "minecraft:bundle"
   }
