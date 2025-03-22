@@ -1,9 +1,9 @@
 {
   "type": "minecraft:crafting_transmute",
   "category": "equipment",
-  "input": "#mur_main:bundle",
+  "input": "#mur_main:shulker_box",
   "material": "minecraft:paper",
   "result": {
-    "id": "minecraft:bundle"
+    "id": "minecraft:shulker_box"
   }
 }
