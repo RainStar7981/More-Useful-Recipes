@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "mur_banner_conversion",
+  "ingredient": "#mur_conversion:banner/bordure_indented",
+  "result": {
+    "id": "minecraft:bordure_indented_banner_pattern"
+  }
+}

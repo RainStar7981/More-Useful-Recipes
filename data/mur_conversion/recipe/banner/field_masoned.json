@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "mur_banner_conversion",
+  "ingredient": "#mur_conversion:banner/field_masoned",
+  "result": {
+    "id": "minecraft:field_masoned_banner_pattern"
+  }
+}
