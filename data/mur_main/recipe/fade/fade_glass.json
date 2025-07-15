@@ -1,6 +1,8 @@
 {
-  "type": "minecraft:stonecutting",
-  "ingredient": "#mur_main:glass",
+  "type": "minecraft:crafting_transmute",
+  "category": "equipment",
+  "input": "#mur_main:glass",
+  "material": "minecraft:paper",
   "result": {
     "id": "minecraft:glass"
   }

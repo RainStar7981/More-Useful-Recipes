@@ -1,6 +1,7 @@
 {
-  "type": "minecraft:stonecutting",
-  "ingredient": "#mur_main:terracotta",
+  "type": "minecraft:crafting_transmute",
+  "input": "#mur_main:terracotta",
+  "material": "minecraft:paper",
   "result": {
     "id": "minecraft:terracotta"
   }

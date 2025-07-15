@@ -1,6 +1,7 @@
 {
-  "type": "minecraft:stonecutting",
-  "ingredient": "#mur_main:candle",
+  "type": "minecraft:crafting_transmute",
+  "input": "#mur_main:candle",
+  "material": "minecraft:paper",
   "result": {
     "id": "minecraft:candle"
   }
