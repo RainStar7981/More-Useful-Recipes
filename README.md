@@ -66,7 +66,6 @@
 - 蘑菇染色为绯红菌或诡异菌
 - 增加可用于合成切石机的石头（[见此](https://github.com/RainStar7981/More-Useful-Recipes/blob/main/rocks_for_stonecutter.md)）
 - 爆裂紫颂果可用烟熏炉烧炼
-- 鞍配方
 - 粗铜块、粗金块、粗铜块直接烧炼为铜块、金块、铜块（高炉）
 - 闪长岩烧制为方解石
 - 粗铁块、粗铜块、粗金块烧制为铁块、铜块、金块
