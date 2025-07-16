@@ -1,10 +1,10 @@
 {
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
-    "minecraft:sandstone",
-    "#mur_sands:sand_red"
+    "minecraft:sand",
+    "#mur_main:sand_red"
   ],
   "result": {
-    "id": "minecraft:red_sandstone"
+    "id": "minecraft:red_sand"
   }
 }
