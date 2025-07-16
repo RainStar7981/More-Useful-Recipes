@@ -3,7 +3,6 @@
   "group": "mur_discs",
   "ingredient": "#mur_conversion:discs/music_disc_strad",
   "result": {
-    "id": "minecraft:music_disc_strad",
-    "count": 1
+    "id": "minecraft:music_disc_strad"
   }
 }

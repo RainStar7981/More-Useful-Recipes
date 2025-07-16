@@ -3,7 +3,6 @@
   "group": "mur_coral_block_conversion",
   "ingredient": "#mur_conversion:coral_block/dead_horn",
   "result": {
-    "id": "minecraft:dead_horn_coral_block",
-    "count": 1
+    "id": "minecraft:dead_horn_coral_block"
   }
 }

@@ -3,7 +3,6 @@
   "group": "mur_bamboo_and_mosaic_conversion",
   "ingredient": "minecraft:bamboo_mosaic",
   "result": {
-    "id": "minecraft:bamboo_block",
-    "count": 1
+    "id": "minecraft:bamboo_block"
   }
 }

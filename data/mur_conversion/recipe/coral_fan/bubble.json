@@ -3,7 +3,6 @@
   "group": "mur_coral_fan_conversion",
   "ingredient": "#mur_conversion:coral_fan/bubble",
   "result": {
-    "id": "minecraft:bubble_coral_fan",
-    "count": 1
+    "id": "minecraft:bubble_coral_fan"
   }
 }

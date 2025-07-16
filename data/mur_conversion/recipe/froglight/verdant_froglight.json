@@ -3,7 +3,6 @@
   "group": "mur_conversion_froglight",
   "ingredient": "#mur_conversion:froglight/verdant_froglight",
   "result": {
-    "id": "minecraft:verdant_froglight",
-    "count": 1
+    "id": "minecraft:verdant_froglight"
   }
 }

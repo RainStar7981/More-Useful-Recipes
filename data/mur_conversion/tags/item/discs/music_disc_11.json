@@ -15,6 +15,8 @@
     "minecraft:music_disc_pigstep",
     "minecraft:music_disc_otherside",
     "minecraft:music_disc_relic",
-    "#mur_conversion:discs/music_disc_of_1.21"
+    "#mur_conversion:discs/music_disc_of_1.21",
+    "minecraft:music_disc_tears",
+    "minecraft:music_disc_lava_chicken"
   ]
 }

@@ -3,7 +3,6 @@
   "group": "mur_copper_things_conversion",
   "ingredient": "#mur_conversion:copper_things/grates/exposed_copper_grate",
   "result": {
-    "id": "minecraft:exposed_copper_grate",
-    "count": 1
+    "id": "minecraft:exposed_copper_grate"
   }
 }

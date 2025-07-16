@@ -3,7 +3,6 @@
   "group": "mur_discs",
   "ingredient": "#mur_conversion:discs/music_disc_precipice",
   "result": {
-    "id": "minecraft:music_disc_precipice",
-    "count": 1
+    "id": "minecraft:music_disc_precipice"
   }
 }

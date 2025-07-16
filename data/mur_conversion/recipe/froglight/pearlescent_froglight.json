@@ -3,7 +3,6 @@
   "group": "mur_conversion_froglight",
   "ingredient": "#mur_conversion:froglight/pearlescent_froglight",
   "result": {
-    "id": "minecraft:pearlescent_froglight",
-    "count": 1
+    "id": "minecraft:pearlescent_froglight"
   }
 }

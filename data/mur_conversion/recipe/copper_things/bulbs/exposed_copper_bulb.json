@@ -3,7 +3,6 @@
   "group": "mur_copper_things_conversion",
   "ingredient": "#mur_conversion:copper_things/bulbs/exposed_copper_bulb",
   "result": {
-    "id": "minecraft:exposed_copper_bulb",
-    "count": 1
+    "id": "minecraft:exposed_copper_bulb"
   }
 }

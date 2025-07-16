@@ -3,7 +3,6 @@
   "group": "mur_copper_things_conversion",
   "ingredient": "#mur_conversion:copper_things/doors/exposed_copper_door",
   "result": {
-    "id": "minecraft:exposed_copper_door",
-    "count": 1
+    "id": "minecraft:exposed_copper_door"
   }
 }

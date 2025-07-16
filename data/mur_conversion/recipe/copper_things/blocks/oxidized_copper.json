@@ -3,7 +3,6 @@
   "group": "mur_copper_things_conversion",
   "ingredient": "#mur_conversion:copper_things/blocks/oxidized_copper",
   "result": {
-    "id": "minecraft:oxidized_copper",
-    "count": 1
+    "id": "minecraft:oxidized_copper"
   }
 }

@@ -3,7 +3,6 @@
   "group": "mur_copper_things_conversion",
   "ingredient": "#mur_conversion:copper_things/cut_blocks/weathered_cut_copper",
   "result": {
-    "id": "minecraft:weathered_cut_copper",
-    "count": 1
+    "id": "minecraft:weathered_cut_copper"
   }
 }

@@ -3,7 +3,6 @@
   "group": "mur_copper_things_conversion",
   "ingredient": "#mur_conversion:copper_things/trapdoors/weathered_copper_trapdoor",
   "result": {
-    "id": "minecraft:weathered_copper_trapdoor",
-    "count": 1
+    "id": "minecraft:weathered_copper_trapdoor"
   }
 }

@@ -3,7 +3,6 @@
   "group": "mur_coral_conversion",
   "ingredient": "#mur_conversion:coral/dead_bubble",
   "result": {
-    "id": "minecraft:dead_bubble_coral",
-    "count": 1
+    "id": "minecraft:dead_bubble_coral"
   }
 }

@@ -3,7 +3,6 @@
   "group": "mur_copper_things_conversion",
   "ingredient": "#mur_conversion:copper_things/chiseled_blocks/exposed_chiseled_copper",
   "result": {
-    "id": "minecraft:exposed_chiseled_copper",
-    "count": 1
+    "id": "minecraft:exposed_chiseled_copper"
   }
 }

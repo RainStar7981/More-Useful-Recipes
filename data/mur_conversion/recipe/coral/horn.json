@@ -3,7 +3,6 @@
   "group": "mur_coral_conversion",
   "ingredient": "#mur_conversion:coral/horn",
   "result": {
-    "id": "minecraft:horn_coral",
-    "count": 1
+    "id": "minecraft:horn_coral"
   }
 }

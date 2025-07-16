@@ -3,7 +3,6 @@
   "group": "mur_coral_block_conversion",
   "ingredient": "#mur_conversion:coral_block/tube",
   "result": {
-    "id": "minecraft:tube_coral_block",
-    "count": 1
+    "id": "minecraft:tube_coral_block"
   }
 }
