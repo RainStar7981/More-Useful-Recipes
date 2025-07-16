@@ -3,7 +3,7 @@
   "group": "mur_nether_bricks_dyeing",
   "ingredients": [
     "minecraft:nether_brick_slab",
-    "#mur_nether_bricks:nether_red"
+    "#mur_main:nether_red"
   ],
   "result": {
     "id": "minecraft:red_nether_brick_slab"
