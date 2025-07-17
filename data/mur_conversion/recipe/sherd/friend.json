@@ -3,7 +3,6 @@
   "group": "mur_sherd_conversion",
   "ingredient": "#mur_conversion:sherd/friend",
   "result": {
-    "id": "minecraft:friend_pottery_sherd",
-    "count": 1
+    "id": "minecraft:friend_pottery_sherd"
   }
 }

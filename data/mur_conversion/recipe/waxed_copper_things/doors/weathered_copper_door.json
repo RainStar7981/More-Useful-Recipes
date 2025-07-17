@@ -3,7 +3,6 @@
   "group": "mur_copper_things_conversion",
   "ingredient": "#mur_conversion:waxed_copper_things/doors/weathered_copper_door",
   "result": {
-    "id": "minecraft:waxed_weathered_copper_door",
-    "count": 1
+    "id": "minecraft:waxed_weathered_copper_door"
   }
 }

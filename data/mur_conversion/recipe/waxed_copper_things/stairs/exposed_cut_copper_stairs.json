@@ -5,7 +5,6 @@
     "#mur_conversion:waxed_copper_things/stairs/exposed_cut_copper_stairs"
   ,
   "result": {
-    "id": "minecraft:waxed_exposed_cut_copper_stairs",
-    "count": 1
+    "id": "minecraft:waxed_exposed_cut_copper_stairs"
   }
 }

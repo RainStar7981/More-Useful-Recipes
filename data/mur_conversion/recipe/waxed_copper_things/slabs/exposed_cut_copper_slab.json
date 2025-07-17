@@ -3,7 +3,6 @@
   "group": "mur_copper_things_conversion",
   "ingredient": "#mur_conversion:waxed_copper_things/slabs/exposed_cut_copper_slab",
   "result": {
-    "id": "minecraft:waxed_exposed_cut_copper_slab",
-    "count": 1
+    "id": "minecraft:waxed_exposed_cut_copper_slab"
   }
 }

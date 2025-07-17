@@ -3,7 +3,6 @@
   "group": "mur_templates_conversion",
   "ingredient": "#mur_conversion:template/wild",
   "result": {
-    "id": "minecraft:wild_armor_trim_smithing_template",
-    "count": 1
+    "id": "minecraft:wild_armor_trim_smithing_template"
   }
 }

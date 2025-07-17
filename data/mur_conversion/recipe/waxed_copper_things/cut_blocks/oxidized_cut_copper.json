@@ -3,7 +3,6 @@
   "group": "mur_copper_things_conversion",
   "ingredient": "#mur_conversion:waxed_copper_things/cut_blocks/oxidized_cut_copper",
   "result": {
-    "id": "minecraft:waxed_oxidized_cut_copper",
-    "count": 1
+    "id": "minecraft:waxed_oxidized_cut_copper"
   }
 }

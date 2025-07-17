@@ -3,7 +3,6 @@
   "group": "minecraft:infested_blocks_conversion",
   "ingredient": "minecraft:infested_stone_bricks",
   "result": {
-    "id": "minecraft:stone_bricks",
-    "count": 1
+    "id": "minecraft:stone_bricks"
   }
 }

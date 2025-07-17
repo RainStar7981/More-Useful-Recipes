@@ -3,7 +3,6 @@
   "group": "mur_skull_conversion",
   "ingredient": "#mur_conversion:skull/piglin_head",
   "result": {
-    "id": "minecraft:piglin_head",
-    "count": 1
+    "id": "minecraft:piglin_head"
   }
 }

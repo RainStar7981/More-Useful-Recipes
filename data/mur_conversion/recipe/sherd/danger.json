@@ -3,7 +3,6 @@
   "group": "mur_sherd_conversion",
   "ingredient": "#mur_conversion:sherd/danger",
   "result": {
-    "id": "minecraft:danger_pottery_sherd",
-    "count": 1
+    "id": "minecraft:danger_pottery_sherd"
   }
 }

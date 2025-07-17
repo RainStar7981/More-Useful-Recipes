@@ -3,7 +3,6 @@
   "group": "mur_sherd_conversion",
   "ingredient": "#mur_conversion:sherd/plenty",
   "result": {
-    "id": "minecraft:plenty_pottery_sherd",
-    "count": 1
+    "id": "minecraft:plenty_pottery_sherd"
   }
 }

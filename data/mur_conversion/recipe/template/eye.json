@@ -3,7 +3,6 @@
   "group": "mur_templates_conversion",
   "ingredient": "#mur_conversion:template/eye",
   "result": {
-    "id": "minecraft:eye_armor_trim_smithing_template",
-    "count": 1
+    "id": "minecraft:eye_armor_trim_smithing_template"
   }
 }

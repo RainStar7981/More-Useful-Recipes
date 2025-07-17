@@ -2,7 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:soul_lantern",
   "result": {
-    "id": "minecraft:lantern",
-    "count": 1
+    "id": "minecraft:lantern"
   }
 }

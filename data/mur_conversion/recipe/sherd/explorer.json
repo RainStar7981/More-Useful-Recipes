@@ -3,7 +3,6 @@
   "group": "mur_sherd_conversion",
   "ingredient": "#mur_conversion:sherd/explorer",
   "result": {
-    "id": "minecraft:explorer_pottery_sherd",
-    "count": 1
+    "id": "minecraft:explorer_pottery_sherd"
   }
 }

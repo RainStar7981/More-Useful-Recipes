@@ -2,7 +2,6 @@
   "type": "minecraft:stonecutting",
   "ingredient": "minecraft:soul_torch",
   "result": {
-    "id": "minecraft:torch",
-    "count": 1
+    "id": "minecraft:torch"
   }
 }

@@ -3,7 +3,6 @@
   "group": "mur_copper_things_conversion",
   "ingredient": "#mur_conversion:waxed_copper_things/bulbs/copper_bulb",
   "result": {
-    "id": "minecraft:waxed_copper_bulb",
-    "count": 1
+    "id": "minecraft:waxed_copper_bulb"
   }
 }

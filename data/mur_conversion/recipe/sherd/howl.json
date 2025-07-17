@@ -3,7 +3,6 @@
   "group": "mur_sherd_conversion",
   "ingredient": "#mur_conversion:sherd/howl",
   "result": {
-    "id": "minecraft:howl_pottery_sherd",
-    "count": 1
+    "id": "minecraft:howl_pottery_sherd"
   }
 }

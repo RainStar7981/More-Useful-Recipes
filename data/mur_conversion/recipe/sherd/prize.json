@@ -3,7 +3,6 @@
   "group": "mur_sherd_conversion",
   "ingredient": "#mur_conversion:sherd/prize",
   "result": {
-    "id": "minecraft:prize_pottery_sherd",
-    "count": 1
+    "id": "minecraft:prize_pottery_sherd"
   }
 }

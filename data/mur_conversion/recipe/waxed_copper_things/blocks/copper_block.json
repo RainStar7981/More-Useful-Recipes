@@ -3,7 +3,6 @@
   "group": "mur_copper_things_conversion",
   "ingredient": "#mur_conversion:waxed_copper_things/blocks/copper_block",
   "result": {
-    "id": "minecraft:waxed_copper_block",
-    "count": 1
+    "id": "minecraft:waxed_copper_block"
   }
 }

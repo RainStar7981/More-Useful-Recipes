@@ -3,7 +3,6 @@
   "group": "mur_templates_conversion",
   "ingredient": "#mur_conversion:template/host",
   "result": {
-    "id": "minecraft:host_armor_trim_smithing_template",
-    "count": 1
+    "id": "minecraft:host_armor_trim_smithing_template"
   }
 }

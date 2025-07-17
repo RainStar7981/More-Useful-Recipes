@@ -3,7 +3,6 @@
   "group": "mur_skull_conversion",
   "ingredient": "#mur_conversion:skull/zombie_head",
   "result": {
-    "id": "minecraft:zombie_head",
-    "count": 1
+    "id": "minecraft:zombie_head"
   }
 }

@@ -3,7 +3,6 @@
   "group": "mur_sherd_conversion",
   "ingredient": "#mur_conversion:sherd/sheaf",
   "result": {
-    "id": "minecraft:sheaf_pottery_sherd",
-    "count": 1
+    "id": "minecraft:sheaf_pottery_sherd"
   }
 }

@@ -3,7 +3,6 @@
   "group": "mur_copper_things_conversion",
   "ingredient": "#mur_conversion:waxed_copper_things/grates/weathered_copper_grate",
   "result": {
-    "id": "minecraft:waxed_weathered_copper_grate",
-    "count": 1
+    "id": "minecraft:waxed_weathered_copper_grate"
   }
 }
