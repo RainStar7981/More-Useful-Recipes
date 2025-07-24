@@ -1,8 +1,8 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": "#mur_stonecutting:prismarine_shard9",
+  "ingredient": "#mur_main:prismarine_shard4",
   "result": {
     "id": "minecraft:prismarine_shard",
-    "count": 9
+    "count": 4
   }
 }
