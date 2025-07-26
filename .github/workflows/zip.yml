@@ -1,24 +1,41 @@
-name: Zip Artifacts
+name: Create and Store ZIP
 
 on:
   push:
-    branches:
-      - main
+    branches: [ main ]
 
 jobs:
-  zip-files:
+  package-files:
     runs-on: ubuntu-latest
-
+    name: Package specified files
+    
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v4
+    - uses: actions/checkout@v4
+    
+    - name: List repository contents (for debugging)
+      run: ls -R
       
-    - name: Zip files
+    - name: Create ZIP file
       run: |
-        zip -r artifact.zip . -x "**.github*" "*.git*"
-
+        # 设置要包含的文件/目录
+        FILES="data/ README.md pack.mcmeta pack.png LICENSE"
+        
+        # 创建带时间戳的ZIP文件名
+        TIMESTAMP=$(date +"%Y%m%d_%H%M%S")
+        ZIPFILE="build_${TIMESTAMP}.zip"
+        
+        # 创建ZIP文件
+        echo "Creating ${ZIPFILE} with files: ${FILES}"
+        zip -r ${ZIPFILE} ${FILES}
+        
+        # 显示结果
+        ls -lh *.zip
+        
+        # 保存ZIP文件名供后续步骤使用
+        echo "ZIPFILE=${ZIPFILE}" >> $GITHUB_ENV
+    
     - name: Upload artifact
       uses: actions/upload-artifact@v4
       with:
-        name: MUR-Artifact
-        path: artifact.zip
+        name: build-package
+        path: ${{ env.ZIPFILE }}
