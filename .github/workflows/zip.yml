@@ -17,21 +17,16 @@ jobs:
       
     - name: Create ZIP file
       run: |
-        # 设置要包含的文件/目录
         FILES="data/ README.md pack.mcmeta pack.png LICENSE"
         
-        # 创建带时间戳的ZIP文件名
         TIMESTAMP=$(date +"%Y%m%d_%H%M%S")
         ZIPFILE="build_${TIMESTAMP}.zip"
         
-        # 创建ZIP文件
         echo "Creating ${ZIPFILE} with files: ${FILES}"
         zip -r ${ZIPFILE} ${FILES}
         
-        # 显示结果
         ls -lh *.zip
         
-        # 保存ZIP文件名供后续步骤使用
         echo "ZIPFILE=${ZIPFILE}" >> $GITHUB_ENV
     
     - name: Upload artifact
