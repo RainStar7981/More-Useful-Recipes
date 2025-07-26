@@ -1,14 +1,14 @@
 {
   "pack": {
     "pack_format": 49,
-    "description": "§aMUR cheaper template §bv1.1.0\n§7by RainStar7981",
+    "description": "§aMUR cheaper template §bv1.1.1\n§7by RainStar7981",
     "supported_formats": [49, 100]
   },
   "filter": {
     "block": [
       {
-        "namespace": "mur_cheap_template",
-        "path": "recipes/.*"
+        "namespace": "mur_main",
+        "path": "recipe/cheap_template/*"
       }
     ]
   }
