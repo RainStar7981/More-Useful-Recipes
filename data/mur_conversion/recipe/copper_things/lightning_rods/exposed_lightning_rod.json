@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "mur_copper_things_conversion",
+  "ingredient": "#mur_conversion:copper_things/lightning_rods/exposed_lightning_rod",
+  "result": {
+    "id": "minecraft:exposed_lightning_rod"
+  }
+}

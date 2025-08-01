@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "mur_copper_things_conversion",
+  "ingredient": "#mur_conversion:copper_things/golem_statues/oxidized_copper_golem_statue",
+  "result": {
+    "id": "minecraft:oxidized_copper_golem_statue"
+  }
+}

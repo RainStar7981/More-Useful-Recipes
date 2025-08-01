@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "mur_copper_things_conversion",
+  "ingredient": "#mur_conversion:copper_things/chests/copper_chest",
+  "result": {
+    "id": "minecraft:copper_chest"
+  }
+}
