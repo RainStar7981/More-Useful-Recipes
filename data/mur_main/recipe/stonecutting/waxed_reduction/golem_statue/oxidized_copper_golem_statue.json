@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "mur_waxed_reduction",
+  "ingredient": "minecraft:waxed_oxidized_copper_golem_statue",
+  "result": {
+    "id": "minecraft:oxidized_copper_golem_statue"
+  }
+}

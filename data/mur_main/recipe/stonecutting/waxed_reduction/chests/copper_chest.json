@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "mur_waxed_reduction",
+  "ingredient": "minecraft:waxed_copper_chest",
+  "result": {
+    "id": "minecraft:copper_chest"
+  }
+}
