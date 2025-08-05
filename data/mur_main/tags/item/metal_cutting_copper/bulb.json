@@ -3,6 +3,6 @@
     "#mur_conversion:copper_things/bulbs/copper_bulb",
     "minecraft:copper_bulb",
     "#mur_conversion:waxed_copper_things/bulbs/copper_bulb",
-    "minecraft:copper_bulb"
+    "minecraft:waxed_copper_bulb"
   ]
 }

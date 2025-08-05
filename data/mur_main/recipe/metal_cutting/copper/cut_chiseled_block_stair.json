@@ -1,8 +1,8 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": "#mur_metal_cutting:copper/block_grate",
+  "ingredient": "#mur_main:metal_cuttting_copper/cut_chiseled_block_stair",
   "result": {
     "id": "minecraft:copper_ingot",
-    "count": 9
+    "count": 2
   }
 }

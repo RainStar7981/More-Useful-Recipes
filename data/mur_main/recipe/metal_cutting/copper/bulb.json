@@ -1,8 +1,8 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": "#mur_metal_cutting:copper/slab",
+  "ingredient": "#mur_main:metal_cuttting_copper/bulb",
   "result": {
     "id": "minecraft:copper_ingot",
-    "count": 2
+    "count": 6
   }
 }

@@ -1,8 +1,8 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": "#mur_metal_cutting:copper/door_trapdoor",
+  "ingredient": "#minecraft:lightning_rods",
   "result": {
     "id": "minecraft:copper_ingot",
-    "count": 2
+    "count": 3
   }
 }

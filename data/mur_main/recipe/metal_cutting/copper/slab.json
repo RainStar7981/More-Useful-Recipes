@@ -1,8 +1,8 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": "minecraft:lightning_rod",
+  "ingredient": "#mur_main:metal_cuttting_copper/slab",
   "result": {
     "id": "minecraft:copper_ingot",
-    "count": 3
+    "count": 2
   }
 }

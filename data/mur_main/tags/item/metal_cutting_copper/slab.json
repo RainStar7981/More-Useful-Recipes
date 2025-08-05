@@ -3,6 +3,6 @@
     "#mur_conversion:copper_things/slabs/cut_copper_slab",
     "minecraft:cut_copper_slab",
     "#mur_conversion:waxed_copper_things/slabs/cut_copper_slab",
-    "minecraft:cut_copper_slab"
+    "minecraft:waxed_cut_copper_slab"
   ]
 }
