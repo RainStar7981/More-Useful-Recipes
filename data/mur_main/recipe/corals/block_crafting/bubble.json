@@ -2,13 +2,13 @@
   "type": "minecraft:crafting_shaped",
   "group": "mur_coral_block_crafting",
   "key": {
-    "#": "#mur_corals:block_crafting/dead_tube"
+    "#": "#mur_main:corals_block_crafting/bubble"
   },
   "pattern": [
     "##",
     "##"
   ],
   "result": {
-    "id": "minecraft:dead_tube_coral_block"
+    "id": "minecraft:bubble_coral_block"
   }
 }

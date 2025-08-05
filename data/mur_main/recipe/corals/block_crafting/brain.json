@@ -2,13 +2,13 @@
   "type": "minecraft:crafting_shaped",
   "group": "mur_coral_block_crafting",
   "key": {
-    "#": "#mur_corals:block_crafting/bubble"
+    "#": "#mur_main:corals_block_crafting/brain"
   },
   "pattern": [
     "##",
     "##"
   ],
   "result": {
-    "id": "minecraft:bubble_coral_block"
+    "id": "minecraft:brain_coral_block"
   }
 }
