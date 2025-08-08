@@ -1,8 +1,7 @@
 {
   "pack": {
-    "pack_format": 82,
     "description": "§a更多实用配方 §bv1.15.0 for 1.21.9+\n§7by RainStar7981",
-    "min_format": 82,
+    "min_format": 83,
     "max_format": 1000
   }
 }

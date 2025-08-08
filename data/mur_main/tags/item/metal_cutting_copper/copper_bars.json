@@ -1,0 +1,8 @@
+{
+  "values": [
+    "#mur_conversion:copper_things/copper_bars/copper_bars",
+    "minecraft:copper_bars",
+    "#mur_conversion:waxed_copper_things/copper_bars/copper_bars",
+    "minecraft:waxed_copper_bars"
+  ]
+}

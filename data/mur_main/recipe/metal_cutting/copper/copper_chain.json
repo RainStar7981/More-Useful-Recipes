@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "#mur_main:metal_cuttting_copper/copper_chain",
+  "result": {
+    "id": "minecraft:copper_nugget",
+    "count": 11
+  }
+}

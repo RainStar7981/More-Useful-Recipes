@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "mur_copper_things_conversion",
+  "ingredient": "#mur_conversion:copper_things/copper_chains/oxidized_copper_chain",
+  "result": {
+    "id": "minecraft:waxed_copper_chain"
+  }
+}

@@ -1,11 +1,7 @@
 {
   "values": [
-    "#mur_conversion:copper_things/doors/copper_door",
-    "minecraft:copper_door",
     "#mur_conversion:copper_things/trapdoors/copper_trapdoor",
     "minecraft:copper_trapdoor",
-    "#mur_conversion:waxed_copper_things/doors/copper_door",
-    "minecraft:waxed_copper_door",
     "#mur_conversion:waxed_copper_things/trapdoors/copper_trapdoor",
     "minecraft:waxed_copper_trapdoor"
   ]
